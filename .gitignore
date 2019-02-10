@@ -2,5 +2,8 @@
 target/*
 *.iml
 
+# notebook tmp files
+**/.ipynb_checkpoints
+
 # too large file
 home-work-1/en_openfoodfacts_org_products.tsv
