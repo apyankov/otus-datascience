@@ -1,0 +1,90 @@
+[
+    {
+        "attachments": [
+            {
+                "link": {
+                    "caption": "www.kryptex.org",
+                    "description": "Kryptex generates cryptocurrency and pays you bitcoins or real-world money, be it dollars, rubles or any other currency.",
+                    "is_favorite": false,
+                    "photo": {
+                        "album_id": -2,
+                        "date": 1529017946,
+                        "id": 456239019,
+                        "owner_id": 100,
+                        "sizes": [
+                            {
+                                "height": 480,
+                                "type": "k",
+                                "url": "https://pp.userapi.com/c623900/v623900887/1518f0/yaMzQBtRSig.jpg",
+                                "width": 1074
+                            },
+                            {
+                                "height": 240,
+                                "type": "l",
+                                "url": "https://pp.userapi.com/c623900/v623900887/1518ef/JQu2rqDawng.jpg",
+                                "width": 537
+                            },
+                            {
+                                "height": 70,
+                                "type": "m",
+                                "url": "https://pp.userapi.com/c623900/v623900887/1518ec/jIgIjBKMViE.jpg",
+                                "width": 130
+                            },
+                            {
+                                "height": 140,
+                                "type": "p",
+                                "url": "https://pp.userapi.com/c623900/v623900887/1518ee/yy3BW0psogk.jpg",
+                                "width": 260
+                            },
+                            {
+                                "height": 35,
+                                "type": "s",
+                                "url": "https://pp.userapi.com/c623900/v623900887/1518eb/92j2GtxSOLE.jpg",
+                                "width": 75
+                            },
+                            {
+                                "height": 80,
+                                "type": "x",
+                                "url": "https://pp.userapi.com/c623900/v623900887/1518ed/CpPakdsuYeY.jpg",
+                                "width": 150
+                            }
+                        ],
+                        "text": ""
+                    },
+                    "title": "Kryptex",
+                    "url": "https://www.kryptex.org/?ref=67224900"
+                },
+                "type": "link"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1529088268,
+        "from_id": -79858655,
+        "id": 144,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 8,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -79858655,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 2,
+            "user_reposted": 0
+        },
+        "text": "Работа для ленивых- Скачиваете программу, она вам зарабатывает деньги (биткоины). \nЗапустите и смотрите на увеличение баланса.\n1000-9000 рублей в месяц и больше.\nhttps://www.kryptex.org/?ref=67224900",
+        "views": {
+            "count": 677
+        }
+    }
+]
