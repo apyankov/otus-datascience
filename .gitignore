@@ -2,6 +2,9 @@
 target/*
 *.iml
 
+# login/password files
+**/vk_login_password.txt
+
 # notebook tmp files
 **/.ipynb_checkpoints
 
