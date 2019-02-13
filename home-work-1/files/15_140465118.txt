@@ -1,0 +1,3119 @@
+[
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "242249f9271e60d578",
+                    "album_id": -7,
+                    "date": 1534208229,
+                    "id": 456240693,
+                    "owner_id": -140465118,
+                    "post_id": 7472,
+                    "sizes": [
+                        {
+                            "height": 110,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c844417/v844417462/c5d09/lWXaYg8mOE0.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 110,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c844417/v844417462/c5d0e/a9fHeuDx7dk.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 170,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c844417/v844417462/c5d0f/8zf7lniM5qE.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 271,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c844417/v844417462/c5d10/g4-7lQJh4fQ.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 433,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c844417/v844417462/c5d11/kMneMZKF5P8.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 63,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c844417/v844417462/c5d08/AGPmNwSeaKM.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 1273,
+                            "type": "w",
+                            "url": "https://pp.userapi.com/c844417/v844417462/c5d0d/NyyS8dtauZg.jpg",
+                            "width": 1500
+                        },
+                        {
+                            "height": 513,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c844417/v844417462/c5d0a/7mSq9Mg-q74.jpg",
+                            "width": 604
+                        },
+                        {
+                            "height": 685,
+                            "type": "y",
+                            "url": "https://pp.userapi.com/c844417/v844417462/c5d0b/_10klMx59sc.jpg",
+                            "width": 807
+                        },
+                        {
+                            "height": 1080,
+                            "type": "z",
+                            "url": "https://pp.userapi.com/c844417/v844417462/c5d0c/s0WMEuJjUKI.jpg",
+                            "width": 1273
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1534208229,
+        "from_id": -140465118,
+        "id": 7472,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 27,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 6,
+            "user_reposted": 0
+        },
+        "text": "",
+        "views": {
+            "count": 2912
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "d19036b6ae9eddff6c",
+                    "album_id": -7,
+                    "date": 1531862110,
+                    "id": 456240680,
+                    "owner_id": -140465118,
+                    "post_id": 7421,
+                    "sizes": [
+                        {
+                            "height": 130,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c824500/v824500900/1738cb/n77hwGNUWkI.jpg",
+                            "width": 91
+                        },
+                        {
+                            "height": 187,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c824500/v824500900/1738cf/C1WUnOzrNYA.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 287,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c824500/v824500900/1738d0/xwsP5bjtrek.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 459,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c824500/v824500900/1738d1/QyCGDZdcKJk.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 731,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c824500/v824500900/1738d2/_8XeK9CbLk8.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 75,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c824500/v824500900/1738ca/3L2cP0vAkhM.jpg",
+                            "width": 52
+                        },
+                        {
+                            "height": 604,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c824500/v824500900/1738cc/vfqHI4py62w.jpg",
+                            "width": 421
+                        },
+                        {
+                            "height": 807,
+                            "type": "y",
+                            "url": "https://pp.userapi.com/c824500/v824500900/1738cd/MHCQA3YcbJ8.jpg",
+                            "width": 563
+                        },
+                        {
+                            "height": 1054,
+                            "type": "z",
+                            "url": "https://pp.userapi.com/c824500/v824500900/1738ce/_MUbmHshmwk.jpg",
+                            "width": 735
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1531862110,
+        "from_id": -140465118,
+        "id": 7421,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 22,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 5,
+            "user_reposted": 0
+        },
+        "text": "",
+        "views": {
+            "count": 2607
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "af45032b879220e0a3",
+                    "album_id": -7,
+                    "date": 1531855678,
+                    "id": 456240679,
+                    "owner_id": -140465118,
+                    "post_id": 7420,
+                    "sizes": [
+                        {
+                            "height": 107,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c830401/v830401485/130339/cUSZvsHu-iI.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 107,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c830401/v830401485/13033b/ZEV9ZciepbY.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 165,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c830401/v830401485/13033c/AddoOiNX35M.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 264,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c830401/v830401485/13033d/OccUp03_eEU.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 412,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c830401/v830401485/13033e/OGbCvEmnWSM.jpg",
+                            "width": 500
+                        },
+                        {
+                            "height": 62,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c830401/v830401485/130338/Uew-3-QcxHk.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 412,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c830401/v830401485/13033a/l5VhWRSYoUg.jpg",
+                            "width": 500
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1531855678,
+        "from_id": -140465118,
+        "id": 7420,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 14,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 0,
+            "user_reposted": 0
+        },
+        "text": "",
+        "views": {
+            "count": 2039
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "79fc08e698534e20f1",
+                    "album_id": -7,
+                    "date": 1530224201,
+                    "id": 456240670,
+                    "owner_id": -140465118,
+                    "post_id": 7397,
+                    "sizes": [
+                        {
+                            "height": 86,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c848536/v848536796/1325e/KdXSio3uUDc.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 87,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c848536/v848536796/13262/twyx_ETO9lE.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c848536/v848536796/13263/gS0unq4Eqzc.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c848536/v848536796/13264/vx22cnUXchU.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 340,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c848536/v848536796/13265/yVI3heIPFWs.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 50,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c848536/v848536796/1325d/8eX31ZGOcIk.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 399,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c848536/v848536796/1325f/4kz-1UdCSXc.jpg",
+                            "width": 604
+                        },
+                        {
+                            "height": 533,
+                            "type": "y",
+                            "url": "https://pp.userapi.com/c848536/v848536796/13260/GEzYlDImqTw.jpg",
+                            "width": 807
+                        },
+                        {
+                            "height": 689,
+                            "type": "z",
+                            "url": "https://pp.userapi.com/c848536/v848536796/13261/ZTzLyirQvOM.jpg",
+                            "width": 1044
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1530224201,
+        "from_id": -140465118,
+        "id": 7397,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 15,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 0,
+            "user_reposted": 0
+        },
+        "text": "",
+        "views": {
+            "count": 2180
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "cfb0495be91b104d36",
+                    "album_id": -7,
+                    "date": 1529870637,
+                    "id": 456240667,
+                    "owner_id": -140465118,
+                    "post_id": 7388,
+                    "sizes": [
+                        {
+                            "height": 65,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c847217/v847217342/8319f/OxbFd1_T0ys.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 87,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c847217/v847217342/831a3/_H5Hkkc4S4g.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c847217/v847217342/831a4/b1FKxXR_6g0.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c847217/v847217342/831a5/_TOWMRW89U4.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 340,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c847217/v847217342/831a6/aX1qkryxHw8.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 37,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c847217/v847217342/8319e/YJzXAwXYNs4.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 302,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c847217/v847217342/831a0/rNvfj1Rv8to.jpg",
+                            "width": 604
+                        },
+                        {
+                            "height": 403,
+                            "type": "y",
+                            "url": "https://pp.userapi.com/c847217/v847217342/831a1/4LuIcAwl_wM.jpg",
+                            "width": 807
+                        },
+                        {
+                            "height": 474,
+                            "type": "z",
+                            "url": "https://pp.userapi.com/c847217/v847217342/831a2/RXPZ2wS5bwo.jpg",
+                            "width": 949
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1529870637,
+        "from_id": -140465118,
+        "id": 7388,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 11,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 0,
+            "user_reposted": 0
+        },
+        "text": "",
+        "views": {
+            "count": 2294
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "6305dd16cbea03890b",
+                    "album_id": -7,
+                    "date": 1529870278,
+                    "id": 456240666,
+                    "owner_id": -140465118,
+                    "post_id": 7387,
+                    "sizes": [
+                        {
+                            "height": 125,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c848736/v848736036/12bde/1fJQB_lKalk.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 125,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c848736/v848736036/12be3/R6xs1g3jTpQ.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 193,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c848736/v848736036/12be4/x9Gusvd8Gkc.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 309,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c848736/v848736036/12be5/WVZPn4Nvrzg.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 492,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c848736/v848736036/12be6/z29IRH3q_Bo.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 72,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c848736/v848736036/12bdd/NDXuGkHxkFA.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 1198,
+                            "type": "w",
+                            "url": "https://pp.userapi.com/c848736/v848736036/12be2/SyQV9MrtArk.jpg",
+                            "width": 1242
+                        },
+                        {
+                            "height": 582,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c848736/v848736036/12bdf/zDJrU2zev1o.jpg",
+                            "width": 604
+                        },
+                        {
+                            "height": 778,
+                            "type": "y",
+                            "url": "https://pp.userapi.com/c848736/v848736036/12be0/qxH0zH7sNnE.jpg",
+                            "width": 807
+                        },
+                        {
+                            "height": 1080,
+                            "type": "z",
+                            "url": "https://pp.userapi.com/c848736/v848736036/12be1/562i9xn_RhM.jpg",
+                            "width": 1120
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1529870278,
+        "from_id": -140465118,
+        "id": 7387,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 33,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 2,
+            "user_reposted": 0
+        },
+        "text": "",
+        "views": {
+            "count": 2838
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "5262d8b02d7f7c4a69",
+                    "album_id": -7,
+                    "date": 1526680166,
+                    "id": 456240620,
+                    "owner_id": -140465118,
+                    "post_id": 7303,
+                    "sizes": [
+                        {
+                            "height": 130,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c834404/v834404523/13db25/Sh0FKFoMGrI.jpg",
+                            "width": 45
+                        },
+                        {
+                            "height": 379,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c834404/v834404523/13db2a/g70Kv0BVt10.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 584,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c834404/v834404523/13db2b/XCFZ-71ZJQo.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 900,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c834404/v834404523/13db2c/2_yEXmpcggo.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 900,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c834404/v834404523/13db2d/YgAu08KzQ2A.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 75,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c834404/v834404523/13db24/ZdpP-KN1Qgs.jpg",
+                            "width": 26
+                        },
+                        {
+                            "height": 2160,
+                            "type": "w",
+                            "url": "https://pp.userapi.com/c834404/v834404523/13db29/KSw2AFJuwkQ.jpg",
+                            "width": 740
+                        },
+                        {
+                            "height": 604,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c834404/v834404523/13db26/1taL4KvjM-o.jpg",
+                            "width": 207
+                        },
+                        {
+                            "height": 807,
+                            "type": "y",
+                            "url": "https://pp.userapi.com/c834404/v834404523/13db27/inICufYuzto.jpg",
+                            "width": 276
+                        },
+                        {
+                            "height": 1080,
+                            "type": "z",
+                            "url": "https://pp.userapi.com/c834404/v834404523/13db28/WbeXAp3eb3o.jpg",
+                            "width": 370
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1526680166,
+        "from_id": -140465118,
+        "id": 7303,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 8,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 0,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "Коротко о монетах",
+        "views": {
+            "count": 2118
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "42b747a753d2874292",
+                    "album_id": -7,
+                    "date": 1526408837,
+                    "id": 456240618,
+                    "owner_id": -140465118,
+                    "post_id": 7297,
+                    "sizes": [
+                        {
+                            "height": 125,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c847217/v847217591/4d62e/MpGMdkgbH2I.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 125,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c847217/v847217591/4d631/7XJRVv_1RtU.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 192,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c847217/v847217591/4d632/j5yoN_pzhpI.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 307,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c847217/v847217591/4d633/Jf6r4952Ju0.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 489,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c847217/v847217591/4d634/DP4bqD1vHMw.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 72,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c847217/v847217591/4d62d/XO16sA6DiHo.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 579,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c847217/v847217591/4d62f/WGo0dD6q8Do.jpg",
+                            "width": 604
+                        },
+                        {
+                            "height": 582,
+                            "type": "y",
+                            "url": "https://pp.userapi.com/c847217/v847217591/4d630/vBOfSkicC9Y.jpg",
+                            "width": 607
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1526408837,
+        "from_id": -140465118,
+        "id": 7297,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 39,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 1,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "",
+        "views": {
+            "count": 3714
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "aa5c753c00d242a268",
+                    "album_id": -7,
+                    "date": 1522385835,
+                    "id": 456240596,
+                    "owner_id": -140465118,
+                    "post_id": 7076,
+                    "sizes": [
+                        {
+                            "height": 84,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c845420/v845420250/15133/EWVEiQ1Pr-Q.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 87,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c845420/v845420250/15135/JOi06TAEdaw.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c845420/v845420250/15136/iOeMlW0Aw1c.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c845420/v845420250/15137/_H8eochNjm4.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 340,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c845420/v845420250/15138/iU2EmWZ5_ds.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 48,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c845420/v845420250/15132/pOKJLAzPdFE.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 360,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c845420/v845420250/15134/08RrtzaWtX8.jpg",
+                            "width": 560
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1522385835,
+        "from_id": -140465118,
+        "id": 7076,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 26,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 2,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "Итак по крипте. \nЧто на рынке? Выдавливают всех и вся для того что-бы получить хорошую цену для покупки. Парни смотрят в завтрашний день :)\n\nПроекты работают. Тех. база есть. Команды трудятся. \n\nСМИ - как всегда ересь молотят. Серьёзных предпосылок для жесткого слива нету. G20 одобрило. Вывод - искуственно давят.\n\n1) Собрать всю свободную наличность.\n\n2) Разбить на 3 части. (5 - 7 монет максимум берем) потенциально успешных проектов. Кому повторить - в личку.\n\n3) Составить список что берем. См. ниже какие монеты рекомендовал. \n\n4) Закупаемся по 1 части в неделю. Паралельно наблюдая за рынком. \n\n5) Запасаемся терпением. Позитивные новости. Переломы трендов. Большие обьемы. \n\n6) Снимаем сливки - покупаем ламбо - уходим на год в отпуск :)\n\nВсем терпения 😉",
+        "views": {
+            "count": 2778
+        }
+    },
+    {
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1521603695,
+        "from_id": -140465118,
+        "id": 7035,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 7,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 0,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "Инсайт дня: \n\nВаш результат сегодня - это совокупность действий в прошлом. \nВажно! Отслеживать все важные принятые решения и их последствия. Только так можно научиться контролировать свою судьбу и осознанно выбирать цепочку развития событий и соотвественно предопределять результат.",
+        "views": {
+            "count": 2784
+        }
+    },
+    {
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1521415402,
+        "from_id": -140465118,
+        "id": 7024,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 16,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 0,
+            "user_reposted": 0
+        },
+        "text": "Инсайт дня: \nШирота взгляда - количество реальностей, которые принимает мозг. \n \nОчень сложно начать мыслить проще.",
+        "views": {
+            "count": 4143
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "93aeaa70e823428509",
+                    "album_id": -7,
+                    "date": 1519491093,
+                    "id": 456240576,
+                    "owner_id": -140465118,
+                    "post_id": 6935,
+                    "sizes": [
+                        {
+                            "height": 48,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c841634/v841634344/729ce/GXVXgpyPKK0.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 87,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c841634/v841634344/729d2/u6pajbM60yQ.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c841634/v841634344/729d3/L-yIWuJdQcg.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c841634/v841634344/729d4/PUbTznQAcW4.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 340,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c841634/v841634344/729d5/djiHW8dQxgU.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 28,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c841634/v841634344/729cd/Mc7jeRUHZ5c.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 225,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c841634/v841634344/729cf/AecpJqgN_YY.jpg",
+                            "width": 604
+                        },
+                        {
+                            "height": 301,
+                            "type": "y",
+                            "url": "https://pp.userapi.com/c841634/v841634344/729d0/gw7y8Tmxra0.jpg",
+                            "width": 807
+                        },
+                        {
+                            "height": 382,
+                            "type": "z",
+                            "url": "https://pp.userapi.com/c841634/v841634344/729d1/958qjXhI75g.jpg",
+                            "width": 1024
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1519491093,
+        "from_id": -140465118,
+        "id": 6935,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 31,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 8,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "Пока происходила дичь, я делал перерыв и не заходил на биржу. Часть портфеля подпросела и дабы не наделать тупых движений - лучше на бирже не появляться.\n\nПо долгосроку все те же монеты которые я упоминал 16 января. К этому списку добавить еще EOS. \n\nЗабавно что, выходит много мощных новостей по проектам, партнерства, приложения, различные IT технологические продвижения, а рынок на это никак не реагирует. Все еще отоходят от паник селла. \n\nБытует мнение что крипта еще взлетит разок перед тем как большинство проектов-альтов канет в лету. Увидим.\nВсе хайпы полетят к 0 и инвесторы будут терять свои кровные. Останутся только технологические проекты с хорошими командами и концепциями которые работают, а не только на бумаге или в виде идеи электронного вида.\n\nПрогноз только один - терпение всегда оплачивается.\n\nВсем удачи 😉",
+        "views": {
+            "count": 4832
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "1c3cd97d93cdf3cfac",
+                    "album_id": -7,
+                    "date": 1517365847,
+                    "id": 456240567,
+                    "owner_id": -140465118,
+                    "sizes": [
+                        {
+                            "height": 85,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c840325/v840325505/4d58b/U_1iIvDxFws.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 87,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c840325/v840325505/4d58e/YTmrHIs-P0U.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c840325/v840325505/4d58f/zio8K8F0OOY.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c840325/v840325505/4d590/xJ-Ss5rIlxs.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 340,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c840325/v840325505/4d591/hpLL4dAf9FE.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 49,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c840325/v840325505/4d58a/J6A5gvQgI7E.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 396,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c840325/v840325505/4d58c/gVOZBRfh1Fw.jpg",
+                            "width": 604
+                        },
+                        {
+                            "height": 420,
+                            "type": "y",
+                            "url": "https://pp.userapi.com/c840325/v840325505/4d58d/qSOKttbuCAY.jpg",
+                            "width": 640
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            },
+            {
+                "photo": {
+                    "access_key": "cc672f7e0b7d49a094",
+                    "album_id": -7,
+                    "date": 1517365847,
+                    "id": 456240568,
+                    "owner_id": -140465118,
+                    "sizes": [
+                        {
+                            "height": 106,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c840325/v840325505/4d593/e7zm4Do0R20.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 106,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c840325/v840325505/4d596/xZ5zHIAK1xg.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 163,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c840325/v840325505/4d597/yBD5KOM-YiY.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 260,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c840325/v840325505/4d598/rHl_cJYY9fQ.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 414,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c840325/v840325505/4d599/uQCM8RK6Rl4.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 61,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c840325/v840325505/4d592/h7QAa3nKixU.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 491,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c840325/v840325505/4d594/_1-5VZE1CRg.jpg",
+                            "width": 604
+                        },
+                        {
+                            "height": 624,
+                            "type": "y",
+                            "url": "https://pp.userapi.com/c840325/v840325505/4d595/KLS9hPdn2mg.jpg",
+                            "width": 768
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1517365847,
+        "from_id": -140465118,
+        "id": 6832,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 18,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 4,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "Всем тем кто закупился и сидит ждет)\nДядька Баффет всегда твердит что только терпение отделяет успешного инвестора от не успешного. Так что если у Вас уже полно коинов и они просели на 50--60%. Единственное что Вам приходится это ждать и поменьше заходить на биржу.\n\nСудя по рынку мы в мощном медвежем тренде и что-бы выбраться из него нужно ой как постараться. Есть подозрения что буря может затянуться на очень долго. Тогда будет очень удобно зайти многим гигантам. Которым ой как не удобно заходить в биток по 10к. И потом на луну. Смотрим...\n\nВсегда держите часть в кэше. Что-бы вылавливать такие монеты как трон сейчас по 4-5 копеек. Или дату с маной. \n\nБесплатная рекомендация. Если вы купили коинов и они просели на 50 и более %. Купите еще столько же дабы усреднить цену и забудьте на месяца 2-3. \n\nВсем удачи 😉",
+        "views": {
+            "count": 3893
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "e04d22da7eef1e92d6",
+                    "album_id": -7,
+                    "date": 1516169155,
+                    "id": 456240560,
+                    "owner_id": -140465118,
+                    "post_id": 6759,
+                    "sizes": [
+                        {
+                            "height": 61,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c841533/v841533348/5d863/QYsAuUsuA9w.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 87,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c841533/v841533348/5d865/Fa8pTNQiQxc.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c841533/v841533348/5d866/bBxQWVrJ7kw.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c841533/v841533348/5d867/zvIB9VcCXXo.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 274,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c841533/v841533348/5d868/EoL4cULaRIg.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 35,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c841533/v841533348/5d862/_46NR4T8Ej4.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 274,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c841533/v841533348/5d864/1JHbmW2iaQg.jpg",
+                            "width": 584
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1516169155,
+        "from_id": -140465118,
+        "id": 6759,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 40,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 4,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "Коротко о происходящем на рынке криптовалют)\n\nЕсли Ваш портфель просел на 30-40% - пересиживайте бурю. Если слабонервные, купите коньяк и покутите :)\n\nПо сути. Сейчас просто колоссальная возможность закупиться альткоинами, по цене даже ниже ICO (некоторые)\n\nРазумно выберите 5-7 мощных монет которые верняково сделают иксы. \n\nХит парад.\n\nRipple Golem IOTA Qtum SNT \nDATA MANA TNB SPK Aventus\nTRON Cardano и другие\n\nПодбирайте на дне сейчас.\n\nПомните что всегда нужно оставлять 20-30% в кеше на балансе. Тогда Ваш портфель не будет сильно худеть и у Вас всегда будут средства на дозакупы на самом дне (как сейчас)\n\nP.S. Несколько работащих правил которые гуляют по сети и оспаривать их неработоспособность - трудно.\n\n1) Закупился на хаях - прокатился на хуях\n2) Закупился на дне - получил второе дно в подарок\n3) Держите 20-30 % от баланса в кеше\n4) Терпение, самообладание и дисциплина.\n\nСоблюдение этих банально-элементарных правил сохранят Ваши нервы, время и слитые депозиты)\n\nВсем удачных торгов 😉",
+        "views": {
+            "count": 3920
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "d9ef8dae4caf722605",
+                    "album_id": -7,
+                    "date": 1514780400,
+                    "id": 456240546,
+                    "owner_id": -140465118,
+                    "post_id": 6683,
+                    "sizes": [
+                        {
+                            "height": 130,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c840530/v840530663/3b505/6paSFu52fAc.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 130,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c840530/v840530663/3b507/v2J9bTN-JyI.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 200,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c840530/v840530663/3b508/cQ0rNMSEsxE.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 320,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c840530/v840530663/3b509/_Y3mqw1_UWY.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 510,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c840530/v840530663/3b50a/DLbknS8xxDA.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 75,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c840530/v840530663/3b504/5aAIg3vBy3E.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 604,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c840530/v840530663/3b506/t16MSnJo9bc.jpg",
+                            "width": 604
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1514780400,
+        "from_id": -140465118,
+        "id": 6683,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 17,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 1,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "Ну что, кто чего себе напиздел на новый год? Новая жизнь, стать лучше, стать дисциплинированнее, начать с чистого листа... Ничего этого не произойдет и чудеса не придут в Вашу жизнь :)\n \n(Можете все забыть через пару дней и этим же листом вытереть себе сраку)",
+        "views": {
+            "count": 3596
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "fb17d373b16691f067",
+                    "album_id": -7,
+                    "date": 1513987639,
+                    "id": 456240537,
+                    "owner_id": -140465118,
+                    "post_id": 6638,
+                    "sizes": [
+                        {
+                            "height": 91,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c830109/v830109259/1ff87/srm0DJIZI-Y.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 91,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c830109/v830109259/1ff8b/bispVPhotw4.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 140,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c830109/v830109259/1ff8c/l2WbDTcsxLw.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 224,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c830109/v830109259/1ff8d/l4US0wnsYtw.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 358,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c830109/v830109259/1ff8e/_8f0bMUuatw.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 52,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c830109/v830109259/1ff86/KaWFYDLsKBU.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 424,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c830109/v830109259/1ff88/3vpnRtE94vw.jpg",
+                            "width": 604
+                        },
+                        {
+                            "height": 566,
+                            "type": "y",
+                            "url": "https://pp.userapi.com/c830109/v830109259/1ff89/0cK3cIK3zCo.jpg",
+                            "width": 807
+                        },
+                        {
+                            "height": 700,
+                            "type": "z",
+                            "url": "https://pp.userapi.com/c830109/v830109259/1ff8a/ByJ8kwpxw_w.jpg",
+                            "width": 998
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1513987639,
+        "from_id": -140465118,
+        "id": 6638,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 71,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 11,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "10 заповедей криптовалютного трейдера \n \nЭтот завет выстрадан буднями криптовалютного трейдера. \n \nКаждая заповедь в нём одинаково подойдёт как начинающим, так и профессионалам. Следование завета поможет вам не оказаться на обочине гоночной трассы под названием «cryptoracing» и при должном использовании сделает вас по-настоящему богатым человеком. \n \nИ так, записывайте правила, которым должен следовать каждый человек решивший заняться торговлей криптовалютой: \n \n1. Биткоин — это батя. В твоём портфеле его должно быть не меньше 40%. Это поможет тебе вовремя докупить обвалившийся альт и сделает твой портфель более устойчивым к волатильности рынка. \n \n2. Никогда не входи в рынок криптовалюты «на всю котлету», имей запас фиатных денег, для того, чтобы откупиться в случае падения. \n \n3. Никогда не храни токены на биржах. Всегда помни об опыте Mt.Gox. Биржа — только для ордеров. Купил токен, выводи его в официальный клиент валюты если на долгосрок. \n \n4. Не ведись на пампы. Резкий скачок валюты за день на 50% и больше — это памп. И чем он выше, тем дольше валюта будет падать. Если не успел прикупить заранее, накидывай на любой памп сетку Фибоначчи и отмеряй минимум 50% от верхней точки — это должно стать твоей следующей зоной закупа. Запрыгнешь сейчас — все равно, что выстрелишь себе в ногу. \n \n5. Лимитные ордера — вот твой инструмент на биржах. Никакого скальпинга и попыток мгновенно продать токен по рынку при его внезапном падении — проскальзывание в ордерах и потеря денег тебе обеспечены. \n \n6. Никакой маржи. Рынок криптовалют — это месиво из нерегулируемых токенов и тысяч психологических факторов . Поэтому он непредсказуем. На марже сразу потеряешь все свои деньги. \n \n7. Отправляя свои деньги в интернет, ты мысленно должен с ними попрощаться. Ибо стезя, на которую ты вступил, никем не регулируется, и именно поэтому, ты никому и ничего не сможешь предьявить. Все действия — только на твой страх и риск. \n \n8. Самое последнее дело думать: «Я мог бы заработать больше… » Никто не знает до какой цены подскочит та или иная валюта. Ты должен сам выработать в себе правила по фиксации прибыли — это может быть временной интервал, может достижение определенных процентов, может что-то еще. Но фиксировать прибыль надо. Как говорят в покере — Нужно брать деньги со стола. И сделав это, даже если цена все равно уйдет вверх: забей. Главное — ты не в убытке. \n \n9. Используя программы для теханализа, нужно анализировать тренды на разных временных интервалах. Посмотри 4-х часовой график, затем откатись на дневной, после на 3-х дневный интервал, и составь полную картину о текущем ценовом тренде. После этого принимай решение. \n \n10. Помни, что биржа, — это психология толпы. В ней для успеха нужно все делать наоборот. Если все покупают, то лучше продавать, если все продают, то лучше подкупить. Если ты ушел в минус в криптовалюте, пока ты ее не продал, ты не зафиксировал свой убыток. Лучше подождать, пока рынок не вернется к цене покупки или даже не превзойдет ее. Тогда ты сможешь еще и получить прибыль. Но при этом, ожидая восстановления цены, упустишь возможности рынка.",
+        "views": {
+            "count": 3856
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "f81c0285fa18b770d6",
+                    "album_id": -7,
+                    "date": 1513926351,
+                    "id": 456240536,
+                    "owner_id": -140465118,
+                    "post_id": 6632,
+                    "sizes": [
+                        {
+                            "height": 59,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c830509/v830509892/1f927/Zc21Mv6te8o.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 87,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c830509/v830509892/1f92a/G48NrnY_WPs.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c830509/v830509892/1f92b/982MwrfCDVM.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c830509/v830509892/1f92c/Aa21qZROQtM.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 320,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c830509/v830509892/1f92d/cqzN1fdIw-M.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 34,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c830509/v830509892/1f926/vSUAgTEmsL8.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 272,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c830509/v830509892/1f928/BRx1B94lD8g.jpg",
+                            "width": 604
+                        },
+                        {
+                            "height": 320,
+                            "type": "y",
+                            "url": "https://pp.userapi.com/c830509/v830509892/1f929/jy9baq8iiWo.jpg",
+                            "width": 710
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1513926352,
+        "from_id": -140465118,
+        "id": 6632,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 12,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 0,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "Ну что инвесторы? Кого постригли?)\n\nКоррекция в самом разгаре. Рождественские скидки)\nРекомендую приготовиться набирать позиции на лонг, особенно альты которые просели на 20-30 процентов. \n\nСейчас как никогда будет возможность впрыгнуть в монеты. 2018 будет очень мощным) Здесь даже рекомендовать нечего. \n\nТо что просело на 20-30 процентов - можно будет смело брать. \n\nДумаю, те ребята которые повлезали в кредиты и заложили дома и машины что-бы купить крипту по 15 и выше - сейчас просто рвут на себе волосы :) \n\nПриколы с Биткоин Кешем который так пиарили и умудрились добавить на GDAX и Coinbase. Затем что-бы хомяки перепутали его с нормальным Битком и залезли в него от по 3-4к. Это просто цирк. \nИ это сработало, не знаю что должно быть в головах этих людей.\n\nВ общем неделька веселая)\n\nСледите за рынком. Плавно входите в позиции. Просчитывайте риски и ставьте стопы.\n\nВсем удачных сделок и прибыли 😉",
+        "views": {
+            "count": 2815
+        }
+    },
+    {
+        "attachments": [
+            {
+                "link": {
+                    "caption": "hellobloom.io",
+                    "description": "Decentralized credit scoring powered by Ethereum and IPFS",
+                    "is_favorite": false,
+                    "photo": {
+                        "album_id": -2,
+                        "date": 1513628638,
+                        "id": 456239597,
+                        "owner_id": 100,
+                        "sizes": [
+                            {
+                                "height": 480,
+                                "type": "k",
+                                "url": "https://pp.userapi.com/c840433/v840433724/35ce9/0ca18P4KRxc.jpg",
+                                "width": 1074
+                            },
+                            {
+                                "height": 240,
+                                "type": "l",
+                                "url": "https://pp.userapi.com/c840433/v840433724/35ce8/5ZnabRaigKE.jpg",
+                                "width": 537
+                            },
+                            {
+                                "height": 70,
+                                "type": "m",
+                                "url": "https://pp.userapi.com/c840433/v840433724/35ce5/WPzDCI9UVOs.jpg",
+                                "width": 130
+                            },
+                            {
+                                "height": 140,
+                                "type": "p",
+                                "url": "https://pp.userapi.com/c840433/v840433724/35ce7/ZBf9Qa2Wn80.jpg",
+                                "width": 260
+                            },
+                            {
+                                "height": 39,
+                                "type": "s",
+                                "url": "https://pp.userapi.com/c840433/v840433724/35ce4/V89sVmCeCtE.jpg",
+                                "width": 75
+                            },
+                            {
+                                "height": 80,
+                                "type": "x",
+                                "url": "https://pp.userapi.com/c840433/v840433724/35ce6/2kKa1uJgU3s.jpg",
+                                "width": 150
+                            }
+                        ],
+                        "text": ""
+                    },
+                    "title": "Bloom - Say Hello to Inclusive Credit",
+                    "url": "https://hellobloom.io/?mwr=6025-eafaef4c"
+                },
+                "type": "link"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1513628638,
+        "from_id": -140465118,
+        "id": 6613,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 37,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 3,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "Bloom - Мощнейший проект - токены пока что по 1 баксу. \n\nРебята будут выдавать выгодные кредиты - монета может дать х10 в начале 2018. \n\nСам уже накупил в долгосрок этих токенов. Хорошая команда и тех. база + у них реферральная программа крутая. Рекомендую. \n\nhttps://hellobloom.io/?mwr=6025-eafaef4c",
+        "views": {
+            "count": 2678
+        }
+    },
+    {
+        "attachments": [
+            {
+                "doc": {
+                    "access_key": "84dd7b3489791b7be8",
+                    "date": 1512975188,
+                    "ext": "gif",
+                    "id": 455595554,
+                    "owner_id": 81021240,
+                    "preview": {
+                        "photo": {
+                            "sizes": [
+                                {
+                                    "height": 100,
+                                    "src": "https://pp.userapi.com/c848424/u515135309/d15/-3/m_00f6967abf.jpg",
+                                    "type": "m",
+                                    "width": 130
+                                },
+                                {
+                                    "height": 75,
+                                    "src": "https://pp.userapi.com/c848424/u515135309/d15/-3/s_00f6967abf.jpg",
+                                    "type": "s",
+                                    "width": 100
+                                },
+                                {
+                                    "height": 604,
+                                    "src": "https://pp.userapi.com/c848424/u515135309/d15/-3/x_00f6967abf.jpg",
+                                    "type": "x",
+                                    "width": 604
+                                },
+                                {
+                                    "height": 500,
+                                    "src": "https://pp.userapi.com/c848424/u515135309/d15/-3/o_00f6967abf.jpg",
+                                    "type": "o",
+                                    "width": 500
+                                }
+                            ]
+                        },
+                        "video": {
+                            "file_size": 524011,
+                            "height": 500,
+                            "src": "https://vk.com/doc81021240_455595554?hash=8242895c2779ce256a&dl=GY2TCNZUGMYTI:1550067081:5d235f4c53ce4ed239&api=1&mp4=1",
+                            "width": 500
+                        }
+                    },
+                    "size": 8076596,
+                    "title": "file.gif",
+                    "type": 3,
+                    "url": "https://vk.com/doc81021240_455595554?hash=8242895c2779ce256a&dl=GY2TCNZUGMYTI:1550067081:5d235f4c53ce4ed239&api=1&no_preview=1"
+                },
+                "type": "doc"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1513514102,
+        "from_id": -140465118,
+        "id": 6599,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 42,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 7,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "Биткоин взял 20 000 $ и капитализация выросла до 600 млрд :)\n\nВероятно все сейчас только и вопят Куда вложить? Что перспективно? Что выстрелит? Я уже вижу эти расстройства на почве недополученной прибыли.\n\nОтвет таков. Все эти блогеры и псевдо советчики-инвесторы - нихрена не знают. Даже если Вы (Про) в тех. анализе и мониторите сутками все новости. \n\nОбычно когда цена будет выстреливать - знать об этом будут только топ приближенных инвесторов. \nА обычные люди потом будут сопеть - блин, черт, я же так хотел вложить в эту монету. Ну так а хули не вложил?\n\nКак быть когда Вы не разбираетесь в вопросе? Только знания помогут Вам.\n\nВолшебные рекомендации которые помогут заработать.\n\n- Составьте десяток - два перспективных монет. Составьте портфель.\n- промониторьте Твиттер, Reddit, Medium и.т.д по конкретной монете\n- посмотрите команду, продукт, партнёры \n- цена, капитализация и колличество монет\n- посмотрите RoadMap монеты - куда двигаются\n- посмотрите календарь по монете\n- какую проблему решает \n\nВ общем изучите фундаментально монету. \n\nСкидывайте Ваши монеты в личку, посмотрим чего Вы интересного нашли.",
+        "views": {
+            "count": 3161
+        }
+    },
+    {
+        "attachments": [
+            {
+                "type": "video",
+                "video": {
+                    "access_key": "4cfe3cf4e779bc0c0e",
+                    "can_add": 1,
+                    "comments": 2,
+                    "date": 1512630293,
+                    "description": "",
+                    "duration": 11,
+                    "id": 456239029,
+                    "is_favorite": false,
+                    "owner_id": -140465118,
+                    "photo_130": "https://pp.userapi.com/c636325/u252786694/video/s_d10a69da.jpg",
+                    "photo_320": "https://pp.userapi.com/c636325/u252786694/video/l_959586ee.jpg",
+                    "photo_640": "https://pp.userapi.com/c636325/u252786694/video/y_c949e6be.jpg",
+                    "platform": "YouTube",
+                    "title": "The Wolf of Wall Street 1080p Holy... fucking shit!",
+                    "views": 239
+                }
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 2,
+            "groups_can_post": true
+        },
+        "date": 1512630011,
+        "from_id": -140465118,
+        "id": 6242,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 27,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 4,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "Таакс, что тут у нас?\n\nБиткоин - 14к + в данный момент. 15 к - 17 к и как полетит вниз (ИМХО). Успейте вытащить глупцы) Сколько хомяков привлекли с ума сойти. Пока все проседает, самое время слить биток в пределах 14-15к. И затариваться перспективными альтами. \n\nЭфир - только держать. Мощь команда, мощь идея и продукт. На фоне битка была попытка продавить 400, но удержался. Хороший знак. Инвесторы держат его.\n\nБит. Кеш - да ну бред. Идеи в коменты.\n\nИота - изучил монету, покопал. Перспективы огромные. Только пусть её еще Биток додавит немного. И можно брать. Там щас куча конференций пойдет в декабре по ней. Куча новых инвесторов придет. Видел Париж,Токио, Нью - Йорк еще пару городов. Мощные презентации. \n\nРипл - не следил, не могу ничего толкового сказать. Уровень в 20 держит. Перспективы тоже имеет.\n\nЛайткоин - куда Биткоин туда и этот парень. \n\nДаш - после этих приколов с Битком будет продолжать топтать вверх. Там они в канабис индустрии платежи хотят обрабатывать. + куча обновлений. Но сильно в него не залезал бы. \n\nБит. Голд - ловить его нужно будет скоро на низах. Его на биржу еще одну добавили, но все как-то пропустили мимо это на фоне Битка. Если Полоникс или Кракен добавит ловите рост в пунктов 150 минимум.\n\nМонеро - мощный парень можно брать но на низах. Превратился в сильную монету. Инвесторы подошли. Норм продукт-идею двигают. \n\nНео -брать тоже можно. Новости хорошие по нему часто. + инвесторы подтянулись к ним тоже. На фоне Битка норм еще держится. \n\nЗи кеш - Пока мало инфы о нем. \n\nВаши монеты пишите в коменты. \n\nВсем по Биткоину 😀",
+        "views": {
+            "count": 3080
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "8a3e40127b6c7e52e4",
+                    "album_id": -7,
+                    "date": 1512013414,
+                    "id": 456240502,
+                    "owner_id": -140465118,
+                    "post_id": 5901,
+                    "sizes": [
+                        {
+                            "height": 87,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c840024/v840024037/4e8f7/1YRhFKFaMQk.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 87,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c840024/v840024037/4e8fa/d-ZJC2uy9_Q.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c840024/v840024037/4e8fb/P4pTPcl_DQY.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c840024/v840024037/4e8fc/LRGigMuy9YA.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 340,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c840024/v840024037/4e8fd/mJc0G7nHN_4.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 50,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c840024/v840024037/4e8f6/GhFJb5JTqSI.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 402,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c840024/v840024037/4e8f8/Deluxa_d4No.jpg",
+                            "width": 604
+                        },
+                        {
+                            "height": 483,
+                            "type": "y",
+                            "url": "https://pp.userapi.com/c840024/v840024037/4e8f9/oUzB3QSDbu8.jpg",
+                            "width": 725
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 4,
+            "groups_can_post": true
+        },
+        "date": 1512013414,
+        "from_id": -140465118,
+        "id": 5901,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 22,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 3,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "Нормально так Уолл стритовцы шугнули людей.\n\nПростейшая манипуляция. Еле до 9к слили. Хотя были ожидания и ниже. Биткоин уже во всю в массах. Даты фьючерсов еще даже и не видно,а Биток по 11к) Держите глупцы. \n\nПо 11к врятли кто себе позволит купить, а вот вложить деньги в облачный майнинг дело другое. Сроки окупаемости 2.5 - 3 месяца.\nБесплатная консультация в личку. \n\nБиткоин - цена быстро оклемалась и вернулась в свой типичный бычий рост. Держите руку на пульсе, сейчас вообще трудно что пронозировать. Тем кому всё равно - просто держите и сливайте на той цели которую метите. 15к думаю не за горами.\n\nЭфириум - цена взлетела на ожидании обновы Каспера. Сейчас можно зайти на 440-450 и ставить стопы на ночь и ждать около 600.\n\nЛайт - здесь всё просто куда Биткоин туда и лайт.\nХвостик такой себе. У кого не хватает на Биток идут сюда что-бы хоть что-то взять. Тем более оно 100 пробивало.\n\nДаш - вообще танк. На всеобщем сливе даже и не дёрнулся. Два месяца сплошного роста. Хм. Даже не знаю. Проект вкусный. Оплаты в даше уже принимают, но епть не по 650-700 закупать же его. Жду коррекции по нему.\n\nБит. Голд - этот парень еще своё покажет. Новости по нему затихли. Твитер молчит. Что-то мутят-готовят. Никак добавление на какую биржу. Но что-то слабовато движется, не вижу силы.\n\nЙота - бьет рекорды, но сейчас высоко, не стал бы покупать на таком высоком уровне.\n\nOmiseGo - добавил себе в портфель. Эта подруга еще не стреляла в отличии от остальных. Жду по ней движения. Сейчас есть смысл зайти в неё и подержать. \n\nРиппл - в принципе можно и его взять, если никуда не спешите особо и капитал уж совсем не большой. \n\nМонеро - есть все шансы 200 пробить. \n\nОстальную дичь типа Cardano - не смотрю и не интересуюсь.\nИ так все эти инструменты волатильны очень, и еще есть парни владеющие большим количеством монет и дергают рынок, наживаются на простом люде. Будьте осторожны. \n\nICO - все что с приставкой этих трёх букв, обходите стороной.\n\nВсем прибыли)",
+        "views": {
+            "count": 3373
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "c123e3338cabbee3ff",
+                    "album_id": -7,
+                    "date": 1511545864,
+                    "id": 456240481,
+                    "owner_id": -140465118,
+                    "post_id": 5754,
+                    "sizes": [
+                        {
+                            "height": 70,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c621707/v621707770/39c99/9Jcmf3spEso.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 87,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c621707/v621707770/39c9d/e9FaXui1ip8.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c621707/v621707770/39c9e/zhX_HRqbpdc.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c621707/v621707770/39c9f/Ifpjfl39sAE.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 340,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c621707/v621707770/39ca0/yqzttTVX0hM.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 40,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c621707/v621707770/39c98/74d5AlrglrA.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 325,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c621707/v621707770/39c9a/mytJqrBqNfs.jpg",
+                            "width": 604
+                        },
+                        {
+                            "height": 434,
+                            "type": "y",
+                            "url": "https://pp.userapi.com/c621707/v621707770/39c9b/71kiHqe-y84.jpg",
+                            "width": 807
+                        },
+                        {
+                            "height": 556,
+                            "type": "z",
+                            "url": "https://pp.userapi.com/c621707/v621707770/39c9c/BIfOT40vEto.jpg",
+                            "width": 1035
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 12,
+            "groups_can_post": true
+        },
+        "date": 1511545864,
+        "from_id": -140465118,
+        "id": 5754,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 6,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 1,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "Биткоин - стабильно. Ждем фьючерсов, середины декабря и 10 000 :)\n\nЭфир красавчик. Я даже и не предполагал что стрельнет на 420 и потом еще к 460. Ставил стоп на 395. Кто держал в лонг - поздравляю. \nНо опять же, сейчас выйдет Бутерин и скажет что-то не так, технические вопросы, переносы апдейтов или еще какая нибудь дичь и цена полетит вниз. В данный момент не заходить.\n\nБит. Кэш - пиарится как можется. Разрабы вообще обнаглели и чисто играют на глупости новоприходящих. Можете увидеть ссылки и топики типа - (BitcoinCash vs Bitcoin) , (Bitcoin is dead) (Биткоин никому не интересен) (Bitcoincash берет новые рубежи) и прочая ахинея которую бороздят просторы интернета. Не брать эту монету. \n \nБит.Голд как и говорилось ниже выстрелит. Взял отметку в 400 на этом и спасибо) Хотя еще ждем добавление на пару крупных бирж, что может пульнуть цену к 500. В данный момент не заходить.\n\nЛайткоин - в связи с тем что Чарльз Ли уже работает в Coinbase. И эту монету никто не развивает. Покупать эту дичь крайне не рекомендую. \n\nDash - дал форы многим. В связи с увеличением блоков, что очень положительно повлияло на цену транзакции. Опять же небольшая капитализация - что приемущество. Эту монету не мониторил и не держал. Сейчас бы не зашел.\n\nПишите свои вопросы касательно других монет. Пообщаемся.\n\nВ момент написания поста - что-то брать - не есть оправдано.",
+        "views": {
+            "count": 3173
+        }
+    },
+    {
+        "attachments": [
+            {
+                "link": {
+                    "caption": "hashflare.io",
+                    "description": "",
+                    "is_favorite": false,
+                    "photo": {
+                        "album_id": -2,
+                        "date": 1510702308,
+                        "id": 456239382,
+                        "owner_id": 100,
+                        "sizes": [
+                            {
+                                "height": 480,
+                                "type": "k",
+                                "url": "https://pp.userapi.com/c837335/v837335715/61d9f/mMfTpku9kyY.jpg",
+                                "width": 1074
+                            },
+                            {
+                                "height": 240,
+                                "type": "l",
+                                "url": "https://pp.userapi.com/c837335/v837335715/61d9e/WRApvvHie5o.jpg",
+                                "width": 537
+                            },
+                            {
+                                "height": 70,
+                                "type": "m",
+                                "url": "https://pp.userapi.com/c837335/v837335715/61d9b/cYXZoeol0fg.jpg",
+                                "width": 130
+                            },
+                            {
+                                "height": 140,
+                                "type": "p",
+                                "url": "https://pp.userapi.com/c837335/v837335715/61d9d/XIkadpKTpnU.jpg",
+                                "width": 260
+                            },
+                            {
+                                "height": 39,
+                                "type": "s",
+                                "url": "https://pp.userapi.com/c837335/v837335715/61d9a/VD0JxNs3Zjw.jpg",
+                                "width": 75
+                            },
+                            {
+                                "height": 80,
+                                "type": "x",
+                                "url": "https://pp.userapi.com/c837335/v837335715/61d9c/L58Hli6kcrw.jpg",
+                                "width": 150
+                            }
+                        ],
+                        "text": ""
+                    },
+                    "title": "Регистрация | HashFlare",
+                    "url": "https://hashflare.io/r/46385FEF"
+                },
+                "type": "link"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 13,
+            "groups_can_post": true
+        },
+        "date": 1511115050,
+        "from_id": -140465118,
+        "id": 5617,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 8,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 0,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "Замечательно. Коррекция прошла. Очень сильная поддержка на 5500 была. Оттолкнулись и быстро вернули свои законные позиции имея мощнейшую поддержку на 7500. \nКитайские вбросы инфы про БиткоинКеш поражают. Еще больше поражает невежество и манипулируемость людей которые в это поверили и были наказаны мгновенно. Прострел на 2800 и спад сразу до 2100 и откат до 1300. Очень много лохов было наказано за жадность.\n\nТем временем наши китайские друзья и те кто не повелся на эту дичь скупили по 5500-5800 и уже подсчитывают прибыль. \n\nКроме того теперь новые цели Биткона 10 000 +. Приходят крупные инвесторы, ввод фьючерсов проще говоря спрос растёт по часам. Ждите 10 к + и радуйтесь. \n\nСыночек Эфириум вот выстрелил, я говорил не так давно, что держите его, у этого парня еще многое впереди. Взял вершинку в 370 вчера, предполагаю что цели Эфириума в 390-400 - так что следите. \n\nИ внучек Лайт тоже не отстает. По этому есть вероятность повторить цель в 90, насчет 100 - не думаю что пробьет. \n\nКто не успел прыгнуть в поезд Биткоина советую приобрести онлайн мощности по майнингу Биткоина - https://hashflare.io/r/46385FEF \n\nСАМЫЙ ПРИБЫЛЬНЫЙ КОНТРАКТ - SHA-256 \nHashFlare платит стабильно и проблем с выводами нету.\nОкупаемость 3-4 месяца. Успейте купить по старым ценам. \nКолличество мощностей ограничено.",
+        "views": {
+            "count": 2658
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "2ea0401807856ccc46",
+                    "album_id": -7,
+                    "date": 1510296470,
+                    "id": 456240434,
+                    "owner_id": -140465118,
+                    "post_id": 5414,
+                    "sizes": [
+                        {
+                            "height": 87,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c834200/v834200995/15b20/KWcY9eD8jss.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 87,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c834200/v834200995/15b22/1GzQoL0G-I4.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c834200/v834200995/15b23/mLH7zDzNgUc.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c834200/v834200995/15b24/lMsz-GQDjrk.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 340,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c834200/v834200995/15b25/2FR0yCOpIxE.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 50,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c834200/v834200995/15b1f/l_brYfUKGvM.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 400,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c834200/v834200995/15b21/mKCjtT1fIYw.jpg",
+                            "width": 601
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1510296469,
+        "from_id": -140465118,
+        "id": 5414,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 20,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 2,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "Ладно. Нюхнули 7900 и сразу после переноса Сегвита вернулись к своим 7300. ГолдменСакс говорили про 8к (плюс минус) Вот Биток и коснулся этой отметки. Должна быть коррекция, мать её - перезагрузка и на 10к +. Какая-то новость или событие должно быть влито что-бы послужить рычагом для этого. \n\nМонеро - преодолело свой уровень поддержки на 100 и висит на 120 сейчас. (Пред. пост можно было зайти на не больших откатах это 97-99) В данный момент заходить ли? Смотреть по ситуации как протестирует 120. Мониторить инфу.\n\nЭфир - медленно топчется наверх. Я его держу и сливаю ближе к его верхам и опять перезахожу. Такой себе оборот долгосрочной инвестиции. Сейчас он немножко выбрался из задницы (280-290 где он провел достаточно много времени) Ждем.\n\nЛайт - заходит и пытается удержать 65. Поддержка на 55. Может откатить к 60. Можно еще попробовать зайти и смотреть. Смотрим как ведет себя папа Биткоин. Ибо все малыши от очень зависят от папки.\n\nБит.Голд - была конференция сегодня в Токио. Много чего вкусного и многообещающего парни говорили. Ждем как поставят на колеса майнинг. Можно было зайти норм на 120 и 140. У кого есть держите. 200 цель как минимум.\n\nРиппл - зайти можно на 19-20 копейках и держите. Этот парень стреляет на 4-7 центов время от времени. И сейчас можно подержать, думаю прострельчик не за горами. \n\nСледите за папкой, он делает погоду. Сейчас когда Бит вырос, в альтах сидеть опаснее ибо с его ростом - альты превращаются в днище. Но по более менее перспективным монетам рекомендация - не спешите сливать. Это и есть основная манипуляция рынком и массами. Главная цель заставить Вас паниковать и забрать у Вас деньги. \n\nНе спешите, думайте, проверяйте новости и источники и принимайте результативные решения. Задавайте вопросы, делитесь информацией и мнением.\n\nВсем прибыли)",
+        "views": {
+            "count": 3322
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "dbf12a73d33ad18738",
+                    "album_id": -7,
+                    "date": 1510036320,
+                    "id": 456240431,
+                    "owner_id": -140465118,
+                    "post_id": 5348,
+                    "sizes": [
+                        {
+                            "height": 89,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c840325/v840325144/1fbca/gSJbVvPB4MM.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 89,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c840325/v840325144/1fbce/HCWfJQ-yHi8.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 137,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c840325/v840325144/1fbcf/SamPD0Wcc3c.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 219,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c840325/v840325144/1fbd0/-wcNu3FfZTk.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 349,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c840325/v840325144/1fbd1/rVHHZSGBqeI.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 51,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c840325/v840325144/1fbc9/p2UeM31kZpQ.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 413,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c840325/v840325144/1fbcb/StdbXDTkfJs.jpg",
+                            "width": 604
+                        },
+                        {
+                            "height": 552,
+                            "type": "y",
+                            "url": "https://pp.userapi.com/c840325/v840325144/1fbcc/pAlQKPl06Hg.jpg",
+                            "width": 807
+                        },
+                        {
+                            "height": 724,
+                            "type": "z",
+                            "url": "https://pp.userapi.com/c840325/v840325144/1fbcd/wIMRx5tACUw.jpg",
+                            "width": 1059
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 14,
+            "groups_can_post": true
+        },
+        "date": 1510036320,
+        "from_id": -140465118,
+        "id": 5348,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 22,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 4,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "Прощупали 7600 - откатили к 6950 - держимся 7100+- (можно было в шорт, кто уловил момент) Впереди еще два форка и новые коины. Что говорит о том что еще может немного прорости. С другой стороны последние две недели рынок доволи напряжен. Многие не выдерживают и выходят просто, график нервный малость. И многие обеспокоины отсутствием коррекции. (Говорил и говорю что она будет)\n\nТем кто думает что умеет трейдить - рекомендую просто держать биткоин, ждите 10к и получайте свои прибыли. Простому обывателю доволи сложно и он проигрывает в результате. \n\nКто хочет играть в долгую игру, можно зайти на эфир (2-4 месяца) Разрабы никак не закончат свои обновления по этому он и стоит 290-300.\n\nМонеро была точка входа на 90 (Можно зайти на небольшом откате, и ждать 110-120)\n\nБит.Кэш - удивил очень. Вообще о нем не думал и не интересовался. Но все равно заходит в эту монету не осмелюсь. Никому не нужная дичь) \n\nРиппл показывает интересную тенденцию и в принципе можно взять сейчас по 20 копеек (или прождать до 18-19) и подержать. \n\nПишите в комменты Ваши вопросы - обменяемся мнениями по текущей ситуации на рынке крипты. \n\nP.S. - различного рода самопиар в комментах и дешевые предложения в личку не рассматриваю. Группа на волонтерской основе и 100 руб за рекламу - просто не интересно. \n\nЖдем вопросов и дискуссий.",
+        "views": {
+            "count": 3255
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "88ad821706b87a4d13",
+                    "album_id": -7,
+                    "date": 1509330401,
+                    "id": 456240417,
+                    "owner_id": -140465118,
+                    "post_id": 5144,
+                    "sizes": [
+                        {
+                            "height": 78,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c834300/v834300205/8adf/FkXVvJejgSc.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 87,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c834300/v834300205/8ae3/daoUBk0Dick.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c834300/v834300205/8ae4/bUW6CE-OH0c.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c834300/v834300205/8ae5/BYMgVLlKYXk.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 340,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c834300/v834300205/8ae6/mkFxIK2VGsE.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 45,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c834300/v834300205/8ade/WWhzS_gqh_Q.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 361,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c834300/v834300205/8ae0/aa0b_FXIsH8.jpg",
+                            "width": 604
+                        },
+                        {
+                            "height": 482,
+                            "type": "y",
+                            "url": "https://pp.userapi.com/c834300/v834300205/8ae1/2MC22_iz_04.jpg",
+                            "width": 807
+                        },
+                        {
+                            "height": 520,
+                            "type": "z",
+                            "url": "https://pp.userapi.com/c834300/v834300205/8ae2/rCu1xui5msQ.jpg",
+                            "width": 870
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 8,
+            "groups_can_post": true
+        },
+        "date": 1509330400,
+        "from_id": -140465118,
+        "id": 5144,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 24,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 6,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "Отлично) Наблюдаем доволи позитивную картину. Обновленный максимум в 6300. Потом слухи о разблокировке крипты в Китае с 1 ноября. В общем раздули очень большой костёр. По этому поводу Уоррен Баффет заявляет что крипта плохо закончит. Увидим. Во многом с этим согласен. На рынок крипты пришли еще пара мощных компаний с Уолл, которые очень жестко играют (как всегда будет стрижка овец и большинство потеряет)\n\n90 % ICO и новых монет это халявные деньги на лохах. В действительности мало что из этого выгорит. Эти все привлечения денег для развития проекта и возврат своим инвесторам сверх прибылей - я называю разводней 21 века. Все больше и больше разводняка проварачивается в сети. Ответственности 0, документации и других данных тоже 0. А учитывая доверчивость нашего населения, то даже опытный пользователь может быть запросто кинут.\nЧто еще говорить, просто будьте максимально осмотрительны и осторожны в сети, особенно с криптой.\nНаблюдаю со стороны огромный бум в этой теме, каждая собака считает что она да что-то да знает (даже я :), но я ничего не рекламирую и не продаю, чисто мысли на стенке)\nНовые коины, куча кранов, регистраций, халявы, токенов - это называется впаривание людям возможности заработать, но преследуются совсем другие цели. Например вытянуть Ваши персональные данные. Подсадивать Вас на вливание своих кровных во что-то и.т.д\n\nРекомендация - не вливайте и не ведитесь на сверх прибыли которые обещают различные петухи разсылая спам. Разберитесь в вопросе и проинформируйтесь по той или иной теме. И после принимайте рациональные решения. \n\nБиткоин пампят жестко своими халявными монетами. Еще ожидается пару форков. Ближайший - середина ноября. И все больше и больше людей хотят халявных монет. Возможно даже пройдет рубеж в 7к. \nАльта тоже немножко из задницы вылезла, но не более того. Все хотят халявных монет и сыграть на курсе Битка. Лично - избавился на данный момент от всех альтов, которые у меня были, и перевел в Биткоин на 5800. \n\nМногие топ биржи не дают новые монеты или же тупят с начислением - понятно почему. YoBit и HitBTC - Вам в помощь по получению халявных монет и быстрому их сливанию)\n\nДелитесь своими мнениями, задавайте вопросы.\n\nСпасибо что с нами.",
+        "views": {
+            "count": 3132
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "6476ef474b7a95c4ad",
+                    "album_id": -7,
+                    "date": 1508128724,
+                    "id": 456240349,
+                    "owner_id": -140465118,
+                    "post_id": 4690,
+                    "sizes": [
+                        {
+                            "height": 87,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c837427/v837427643/62338/nMQd9sn53IE.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 87,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c837427/v837427643/6233a/ASJE2aN4K9A.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c837427/v837427643/6233b/ZfuEbQfD7kY.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c837427/v837427643/6233c/3ZN7KoLsAMw.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 340,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c837427/v837427643/6233d/odp8yhN1LxQ.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 50,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c837427/v837427643/62337/h2qS-zLTh7M.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 400,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c837427/v837427643/62339/dRhlrI4bDyw.jpg",
+                            "width": 600
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 21,
+            "groups_can_post": true
+        },
+        "date": 1508128724,
+        "from_id": -140465118,
+        "id": 4690,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 25,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 5,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "Фан фары - свежий пост)\n\nХотел было выложить мысли когда курс был на 5200, но понял что вечеринка только начинается.\nВсе стремительно хотят заполучить Бит. Голд. Закупают как больные) Все кто зашел до 5к - смело пожинайте свои плоды и сливайте на 5600-5700 пока можете. \nДальше 5800, Биткоин в этом сезоне не пойдет. Рынок перенапряжен очень. Все только и ждут форка 25 октября (или когда там он) , что-бы удачно слить и Биткоин и Б.Голд. Дальше пойдет откат и жесткий слив, будут опять стричь молодняк) Остановится в лучшем случае на 4000, трудно гадать в прошлые разы (Июль - 1900, Август - 3000) проседал доволи громко. \n\nЕсть еще интересная версия происходящего сейчас. \nПампят Биткоин - все сливают альты(просаживая их) и закупают Бит. В это время владельцы больших обьемов и биржы, затариваются альтами по очень просаженной цене дабы оперировать этим капиталом в ближайшем будущем. То есть большие парни действуют противоположно толпе (считаю это очень выиграшной стратегией). \nПосмотрите как альты просели в цене. Что-то в этом есть короче. \n\nАльты просели - всем у кого маленький капитал рекомендую обратить внимание на это.\n\nЭфир - не откатил, а медленно и уверенно ползет к 380-390 (где он уже недавно бывал) Тем более 16 октября - будет славный агрейд (после которого думаю будет нужный нам рост) \n\nЛайт - силен парень, так же идет к той точке где уже бывал в 80-90.\n\nНе паникуйте и если имеете Эфир и Лайт - не спешите, вечеринка у этих парней будет в ближайшем будущем.\n \nПредположение на ближ. будущее таковы. Рынок должен остыть - будет спад. Ну и след. рост это подарок к Новому Году (если Вы понимаете о чем я)\n \nP.S. - очень много людей свято верят и поговаривают о том что\n2018 - это 10 000 = 1 Биткоин. Что думаете?",
+        "views": {
+            "count": 4225
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "8ccfcc3bc2caeb5620",
+                    "album_id": -7,
+                    "date": 1507570486,
+                    "id": 456240336,
+                    "owner_id": -140465118,
+                    "post_id": 4505,
+                    "sizes": [
+                        {
+                            "height": 43,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c639230/v639230958/55f7d/qtkRjqUap3I.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 87,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c639230/v639230958/55f82/3BZGVZXKMAU.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c639230/v639230958/55f83/mRJO8UpWtAc.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c639230/v639230958/55f84/Yj03hn_5PUw.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 340,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c639230/v639230958/55f85/vlJsJZd5OKc.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 25,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c639230/v639230958/55f7c/lBRjyOpYDXE.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 501,
+                            "type": "w",
+                            "url": "https://pp.userapi.com/c639230/v639230958/55f81/4bUQTFKX7jQ.jpg",
+                            "width": 1501
+                        },
+                        {
+                            "height": 201,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c639230/v639230958/55f7e/c-qBOHFUFpQ.jpg",
+                            "width": 604
+                        },
+                        {
+                            "height": 269,
+                            "type": "y",
+                            "url": "https://pp.userapi.com/c639230/v639230958/55f7f/dTlxUXVmJ30.jpg",
+                            "width": 807
+                        },
+                        {
+                            "height": 427,
+                            "type": "z",
+                            "url": "https://pp.userapi.com/c639230/v639230958/55f80/V1CD0IAA42o.jpg",
+                            "width": 1280
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 6,
+            "groups_can_post": true
+        },
+        "date": 1507570485,
+        "from_id": -140465118,
+        "id": 4505,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 30,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 7,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "Актуальный вопрос выбора биржи.\n\nМногие сталкиваются с этим вопросом. Поделюсь с Вами как на это смотрю я. Пришлось пройти немало регистраций-верификаций пока я нашел то что мне нужно. \nВыбор биржи в основном определяется Вашей страной и гражданством (но не решающий фактор) Имеет значение для чего Вам биржа (торги, хранение) и на какие монеты Вы ориентируетесь (Бит, Эфир, Лайт) или же Вас интересуют вложения и в мелкие коины. \n\nВ данный момент работаю с такими биржами.\n\nBitFinex - большой обьем торгов, плюс функция Финансирование (чего не видел ни у одной другой биржи) - позволяет сдавать в лизинг Ваши монеты получая при этом доход.\n\nPoloniex - еще один гигант по обьему торгов, поддержка огромного количества мелких коинов (ни одна биржа не имеет столько). \n\nGDAX - хранение и вывод на карту (Бит, Эфир, Лайт). \n\nBittrex - удобно отслеживать маленькие таймфреймы, обьемы покупок-продаж, цены, капитализации - всё под рукой. Поддержка многих коинов. \n\nУ некоторых людей могут возникнуть проблемы с верификацией. Рекомендую еще биржу CEX.IO - наиболее лояльна к русскоязычным пользователям. \n\nТакже есть такой ресурс Google, где вбиваете 'top bitcoin markets\" - смотрите первых 3-5 ссылок, анализируете, читаете отзывы и делаете выбор. \n\nСчастья, здоровья, удачи, успешных торгов - Вам, детям, внукам.😀\n\nP.S. - В текущую минуту опубликования поста наблюдается откат почти по всем коинам и рост главного гиганта.",
+        "views": {
+            "count": 4358
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "fba3de8a0288f07931",
+                    "album_id": -7,
+                    "date": 1507401022,
+                    "id": 456240333,
+                    "owner_id": -140465118,
+                    "post_id": 4467,
+                    "sizes": [
+                        {
+                            "height": 90,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c840125/v840125051/34670/qc3eiU0v2_I.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 90,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c840125/v840125051/34673/xii1yt5Hv3M.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 138,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c840125/v840125051/34674/eLlRKO8ViWI.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 221,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c840125/v840125051/34675/DIVo7c0Ls3A.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 351,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c840125/v840125051/34676/3OpM53pIxYI.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 52,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c840125/v840125051/3466f/owo43oWErW4.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 416,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c840125/v840125051/34671/wnTaV-yakD0.jpg",
+                            "width": 604
+                        },
+                        {
+                            "height": 441,
+                            "type": "y",
+                            "url": "https://pp.userapi.com/c840125/v840125051/34672/nc3BAP-D5Zs.jpg",
+                            "width": 640
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 14,
+            "groups_can_post": true
+        },
+        "date": 1507401022,
+        "from_id": -140465118,
+        "id": 4467,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 32,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 5,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "И так что видим сейчас. Прогнозируемый рост оправдался. Тем кто зашел до 4000 - молодцы. В данный момент тоже думаю можно зайти на откатах (зависит всё от капитала) И любителям потрейдить, на этих же откатах можно заработать пару сотен $.\n\nEthereum - мощный апгрейд по Эфиру уже будет скоро закончен - должна получится самая продвинутая криптовалюта. Увеличеная пропускная способность сети - это качество и скорость обработки данных, меньше сбоёв - быстрые тразниты end to end с минимальной комиссией. Сам зашел на 220$ - сейчас в режиме ожидания. Потенциал огромен. Увидим. \n\nRipple - вернул позицию с 0.17-18 до 0.23 копеек, пророчат ему по 0.50, можно взять копеек по 0.20 на откате, и следить за курсом и новостями дабы не прогореть, опять же всё зависит от кипатала который не боитесь потерять. Как писал ранее - \"Риппл - это для меня эксперимент\" Отталкивает его огромное наличие коинов и разговоры о недобросовесных парнях в управлении. \n\nBitcoin - поговоривают о цифре в 6000, видимо готовят публику к новым вершинам. В прошлый раз трубили о 5000 - и он коснулся этой цифры на нескольких бирж. Думаю под конец года прогрызёт 5000. Сложность растёт, количество коинов уменьшается, круг замыкается :) \n\nBitcoin Cash & Bitcoin Gold - скоро будет форк, 25 октября китайские псы будут откалывать кусок опять, если имеете Биткоин, есть биржи которые всем владельцам Bitcoin - дадут Bitcoin Gold. Сразу же сливайте эту дичь и имейте прибыль. Эти две монеты чистый треш, ничего за ними не стоит - кроме китайской спекуляции. Помониторьте какие биржи дадут Голд коины и перелейте туда свои Биткоины на время - дабы заработать пару сотен нажав пару клавиш :)\n\nLitecoin - укрепился на 50, впрочем как и был до этого. Привязан к Биткоину как пес на цепи. Выстрелит вслед за папой (Bitcoin).\nЭфир и Лайт - те две монеты которые можно еще позволить себе купить штуками или пачками. Ибо купить целый Биткоин уже не каждому по карману. 2018 будет интересен для этих двух мелкокалиберных друзей. \n\nСпасибо что дочитали до этого момента, надеюсь мои предположения и мысли были Вам интересны. \nЛичка открыта к вопросам и предложениям. \n\nСледующий пост будет про ICO или как не попасть в просак.\n\nНу и картинка - что б красиво :)",
+        "views": {
+            "count": 3292
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "0aed5c78facc68c5ab",
+                    "album_id": -7,
+                    "date": 1506356283,
+                    "id": 456240312,
+                    "owner_id": -140465118,
+                    "post_id": 4201,
+                    "sizes": [
+                        {
+                            "height": 84,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c639822/v639822977/50e06/c-x6Ns2sFcE.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 87,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c639822/v639822977/50e09/IxeGfh94TnM.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c639822/v639822977/50e0a/C-JyxTLTgvA.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c639822/v639822977/50e0b/4McnU30tBvQ.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 340,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c639822/v639822977/50e0c/i-89rdKpQPE.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 48,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c639822/v639822977/50e05/G8TbkS_P9r8.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 390,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c639822/v639822977/50e07/OJB4_lS0Iv4.jpg",
+                            "width": 604
+                        },
+                        {
+                            "height": 400,
+                            "type": "y",
+                            "url": "https://pp.userapi.com/c639822/v639822977/50e08/O-eS5h4pzyc.jpg",
+                            "width": 620
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 9,
+            "groups_can_post": true
+        },
+        "date": 1506356283,
+        "from_id": -140465118,
+        "id": 4201,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 32,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 8,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "И так которотко о главном. Предполагается рост крипты по всем фронтам. Есть вброс в СМИ что Google Store и Apple Store начнуть принимать оплату в Биткоине и сейчас работают над разработкой плагинов к своим браузерам. Кроме того дядя Amazon тоже работает над тем что бы начать принимать оплату в Биткоине. Также творение Бутерина - Ethereum, заканчивает мощное обновление - которое увеличит пропускную способность сети (если не ошибаюсь). Если вся эта дичь подтверждается - будет хороший рост (который подтянет все мелкие коины за собой) Плюс градет очередной форк на конец октября - который принесет владельцам Биткоина, бонусные коины (easy money). И только что просматривал мелкие таймфреймы - кто-то неплохо так приобрел Биткоина, Эфириума, Лайткона, Риппла, НЕО и это не конец списка. Октябрь думаю будет жарким. Увидим....\nP.S. - Дичи с Уолл Стритт уже мало кто верит, исходя их того как парни неплохо подняли на просадке к 3000$. \n\nНу и конечно же прилеплю какую-нибудь картинку что-бы в глаза бросалась :)\n\nВсем удачных торгов и прибыльных инвестиций.",
+        "views": {
+            "count": 3589
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "d1a4dea110687751f3",
+                    "album_id": -7,
+                    "date": 1505749625,
+                    "id": 456240308,
+                    "owner_id": -140465118,
+                    "post_id": 4126,
+                    "sizes": [
+                        {
+                            "height": 79,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c840638/v840638984/933d/qi6bLBB-Djc.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 87,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c840638/v840638984/933f/SwImxg9fOqM.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c840638/v840638984/9340/3aeaNM2huco.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c840638/v840638984/9341/yKQ7cPDgFXM.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 302,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c840638/v840638984/9342/DB39OZn3xek.jpg",
+                            "width": 500
+                        },
+                        {
+                            "height": 46,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c840638/v840638984/933c/NYSahZbX3SI.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 302,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c840638/v840638984/933e/npSDRLqmw54.jpg",
+                            "width": 500
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 8,
+            "groups_can_post": true
+        },
+        "date": 1505749625,
+        "from_id": -140465118,
+        "id": 4126,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 12,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 4,
+            "user_reposted": 0
+        },
+        "signer_id": 81021240,
+        "text": "Как говорят мудрые люди. Терпение - и Вы будете вознаграждены. Не смотря на вбросы различного рода дезинформации, наблюдаю курс в 4050 сейчас. Кто зашел на 3000-3200 - красавчики😉 Уже можно пожинать плоды. Есть мысль - сейчас подьем и следующий спад неизвестно когда, зависит опять какую дичь начнуть вливать в прессу и когда крупная рыба начнёт сливать. Всем прибыли, следите за курсом, оставляйте свои комментарии по поводу происходящего и делитесь идеями.",
+        "views": {
+            "count": 3298
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "4b28e4448818363357",
+                    "album_id": -7,
+                    "date": 1505441026,
+                    "id": 456240303,
+                    "owner_id": -140465118,
+                    "post_id": 4040,
+                    "sizes": [
+                        {
+                            "height": 70,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c836236/v836236590/6153b/KBrjDd7unrs.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 87,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c836236/v836236590/6153e/koPmyFu5cTk.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c836236/v836236590/6153f/UKdsMKplIJ0.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c836236/v836236590/61540/j-7gRM9_0O8.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 340,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c836236/v836236590/61541/u2TWyipTAZ0.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 40,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c836236/v836236590/6153a/ZWViDDMj410.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 325,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c836236/v836236590/6153c/EvTnlnB6hZY.jpg",
+                            "width": 604
+                        },
+                        {
+                            "height": 387,
+                            "type": "y",
+                            "url": "https://pp.userapi.com/c836236/v836236590/6153d/nEs6dEzRBKY.jpg",
+                            "width": 720
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 11,
+            "groups_can_post": true
+        },
+        "date": 1505441026,
+        "from_id": -140465118,
+        "id": 4040,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 49,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 5,
+            "user_reposted": 0
+        },
+        "text": "Наблюдаю происходящую дичь на рынке крипты и появились такие мысли. Пишите в коменты что думаете.\n\n1) Можно слить Бит-Эфир и зайти с низов (купив больше и в спячку) Рынок наберёт обороты как только будет ясна ситуация с Китаем. \nЕсть мнение что китайцы опять балуются на понижении сливая различного рода дезинформацию. Большие парни играют, по крупному причем. Простые не компетентные, не имеющие достачно информации люди - начинают сливать Биткоин - на них и ставка. \nЭтот пёс еще с J.P. Morgan - сами небось слили на 4500-4800 и опять дезинформируют людей что-бы курс упал и опять было можно зайти.\n\nТаких новостей - приколов было уже достаточно много. И каждый раз эти парни были в игре и неплохо подымали на этих вбросах информации.\n\nЕсть предположение что с 2018, а то и с декабря будет норм рост. И те кто выждал и рука не дрогнула - заберут своё.\n\n2) Внимание - облачный майнинг уже полностью не выгоден. Не покупайте контракты. 1-2 года контракты - очень много времени, проще купить крипты на низах и подождать тоже самое время - получите примерно ту самую прибыль. Зато деньги Ваши будут при Вас в кошельке, и сможете ими контролировать. \n\n3) ICO - мнение. 90% выходящих на рынок фирм - дичь. Работал в двух таких компаниях - внутри творится бардак. Только и разговоров когда токены выпустить на рынок - да начать капитализироваться. \nМнение инвестировать - можно. Но отбирайте те компании, у которых есть фин. база, норм инвесторы, достойный продукт, софт база, компетентный персонал. \n\nСроки окупаемости - вообще не угадать. Многое зависит от вектора компании и её работы. \n\n4) Альткоины - нельзя прогнозировать выстрел конкретного коина. \nРекомендация - не класть все яйца в одну корзину как никогда актуальна. \nИмеется небольшой свободный капитал. Раскиньте в 5-7 более менее перспективных коинов. Ознакомьтесь с ресурсом, чем занимаются, какую проблему решают, как долго уже работают, какие были успехи и поражения и.т.д. Наведите справки по всем более менее доступным фронтам. И тогда закупите по немногу - будьте готовы расстаться с этой суммой которую вложили в коины. И один из этих ребят да и выстрелит - следите за рынком. На остальных коинах можно выйты в 0 или небольшой минус, и 1-2 коина затащат всю вечеринку.\n\nСпасибо что прочитали, оставляйте своё мнение в комменты.",
+        "views": {
+            "count": 3025
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "access_key": "7adbe92a90b578e96f",
+                    "album_id": -7,
+                    "date": 1505176597,
+                    "id": 456240300,
+                    "owner_id": -140465118,
+                    "post_id": 4022,
+                    "sizes": [
+                        {
+                            "height": 73,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c841636/v841636129/1a185/Ibx43aGV6tA.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 87,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c841636/v841636129/1a18a/AGlH0IUITRg.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 133,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c841636/v841636129/1a18b/mH1oi91kAco.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 213,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c841636/v841636129/1a18c/1TMtP8o1Fg4.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 340,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c841636/v841636129/1a18d/Pa3cI6l-y2M.jpg",
+                            "width": 510
+                        },
+                        {
+                            "height": 42,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c841636/v841636129/1a184/6bkOC14KtrY.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 768,
+                            "type": "w",
+                            "url": "https://pp.userapi.com/c841636/v841636129/1a189/xDZCcrzYEZQ.jpg",
+                            "width": 1366
+                        },
+                        {
+                            "height": 340,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c841636/v841636129/1a186/ZYSMqCIMtS0.jpg",
+                            "width": 604
+                        },
+                        {
+                            "height": 454,
+                            "type": "y",
+                            "url": "https://pp.userapi.com/c841636/v841636129/1a187/12yoWwzUCH0.jpg",
+                            "width": 807
+                        },
+                        {
+                            "height": 720,
+                            "type": "z",
+                            "url": "https://pp.userapi.com/c841636/v841636129/1a188/wqsadQBcUUk.jpg",
+                            "width": 1280
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1505176597,
+        "from_id": -140465118,
+        "id": 4022,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 11,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -140465118,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 1,
+            "user_reposted": 0
+        },
+        "text": "Однако здравствуйте. \nПосле некоторых неудачных манипуляций с сообществом - решил оставить всё как было и продолжать в духе информационного ресурса.",
+        "views": {
+            "count": 1981
+        }
+    }
+]

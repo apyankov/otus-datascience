@@ -1,0 +1,948 @@
+[
+    {
+        "attachments": [
+            {
+                "link": {
+                    "caption": "wikicoins.club",
+                    "description": "Владельцы магазинов отдают предпочтение Bitcoin Cash, так как по сравнению с основной криптовалютой(BTC), комиссии за транзакции которой доходят 28 долларов, а время ожидания до нескольких часов. Использование Bitcoin Cash для платежей более перспективно благодаря низкой комиссии и более быстрым транзакциям.",
+                    "is_favorite": false,
+                    "photo": {
+                        "album_id": -2,
+                        "date": 1514191894,
+                        "id": 456239687,
+                        "owner_id": 100,
+                        "sizes": [
+                            {
+                                "height": 240,
+                                "type": "l",
+                                "url": "https://pp.userapi.com/c840520/v840520138/3a0f4/NrqbaeWeFI4.jpg",
+                                "width": 537
+                            },
+                            {
+                                "height": 76,
+                                "type": "m",
+                                "url": "https://pp.userapi.com/c840520/v840520138/3a0f1/V0Rrjch-mYw.jpg",
+                                "width": 130
+                            },
+                            {
+                                "height": 152,
+                                "type": "p",
+                                "url": "https://pp.userapi.com/c840520/v840520138/3a0f3/PCRqxxFZvzo.jpg",
+                                "width": 260
+                            },
+                            {
+                                "height": 44,
+                                "type": "s",
+                                "url": "https://pp.userapi.com/c840520/v840520138/3a0f0/jiM1rWGAr4A.jpg",
+                                "width": 75
+                            },
+                            {
+                                "height": 88,
+                                "type": "x",
+                                "url": "https://pp.userapi.com/c840520/v840520138/3a0f2/6pEV-c48yW0.jpg",
+                                "width": 150
+                            }
+                        ],
+                        "text": ""
+                    },
+                    "title": "​​Онлайн магазины все больше хотят использовать Bitcoin Cash для платежей - Wiki Coins",
+                    "url": "http://wikicoins.club/%E2%80%8B%E2%80%8Bonlajn-magaziny-vse-bolshe-xotyat-ispolzovat-bitcoin-cash-dlya-platezhej/"
+                },
+                "type": "link"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1514191894,
+        "from_id": -25234359,
+        "id": 8281,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 15,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -25234359,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 3,
+            "user_reposted": 0
+        },
+        "text": "Владельцы магазинов отдают предпочтение Bitcoin Cash, так как по сравнению с основной криптовалютой(BTC), комиссии за транзакции которой доходят до 28 долларов, а время ожидания до нескольких часов. Использование Bitcoin Cash для платежей более перспективно благодаря низкой комиссии и более быстрым транзакциям.\n\nhttp://wikicoins.club/%E2%80%8B%E2%80%8Bonlajn-magaziny-vse-bolshe-xotyat-ispolzovat-bitcoin-cash-dlya-platezhej/",
+        "views": {
+            "count": 4210
+        }
+    },
+    {
+        "attachments": [
+            {
+                "link": {
+                    "caption": "wikicoins.club",
+                    "description": "",
+                    "is_favorite": false,
+                    "photo": {
+                        "album_id": -2,
+                        "date": 1514126342,
+                        "id": 456239686,
+                        "owner_id": 100,
+                        "sizes": [
+                            {
+                                "height": 240,
+                                "type": "l",
+                                "url": "https://pp.userapi.com/c840320/v840320857/361ad/L-kVWBsVu1Q.jpg",
+                                "width": 537
+                            },
+                            {
+                                "height": 97,
+                                "type": "m",
+                                "url": "https://pp.userapi.com/c840320/v840320857/361aa/hN6MiNs-zMQ.jpg",
+                                "width": 130
+                            },
+                            {
+                                "height": 193,
+                                "type": "p",
+                                "url": "https://pp.userapi.com/c840320/v840320857/361ac/x2zHDeufSNU.jpg",
+                                "width": 260
+                            },
+                            {
+                                "height": 56,
+                                "type": "s",
+                                "url": "https://pp.userapi.com/c840320/v840320857/361a9/lQNcc04lni0.jpg",
+                                "width": 75
+                            },
+                            {
+                                "height": 111,
+                                "type": "x",
+                                "url": "https://pp.userapi.com/c840320/v840320857/361ab/HnDsiUTGe00.jpg",
+                                "width": 150
+                            }
+                        ],
+                        "text": ""
+                    },
+                    "title": "Минусы биткоина - Wiki Coins",
+                    "url": "http://wikicoins.club/minusy-bitkoina/"
+                },
+                "type": "link"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1514126341,
+        "from_id": -25234359,
+        "id": 8280,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 6,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -25234359,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 1,
+            "user_reposted": 0
+        },
+        "text": "В последнее время шума вокруг новой и революционной технологии криптовалют крайне много. С первого взгляда все выглядит очень радужно и мы ни в коем случае не говорим, что это не так. Но, объективно, минусы биткоина и криптовалют в целом — существуют, и некоторые из них заслуживают внимания. В этой статей речь как раз пойдет о них:\n\nhttp://wikicoins.club/minusy-bitkoina/",
+        "views": {
+            "count": 3664
+        }
+    },
+    {
+        "attachments": [
+            {
+                "link": {
+                    "caption": "wikicoins.club",
+                    "description": "Как и любой финансовый инструмент (акция, валюта, драгоценный метал), криптовалюты способны изменяться в цене. Они получили сильное публичное освещение (ХАЙП) и привлекли внимание спекулянтов. Причём в это слово, вопреки штампам, устоявшимся в СМИ, мы не вносим никакого отрицательного смысла: спекулянт - это всего лишь",
+                    "is_favorite": false,
+                    "photo": {
+                        "album_id": -2,
+                        "date": 1513784948,
+                        "id": 456239685,
+                        "owner_id": 100,
+                        "sizes": [
+                            {
+                                "height": 240,
+                                "type": "l",
+                                "url": "https://pp.userapi.com/c840526/v840526776/3538f/73RUTs3a_Hw.jpg",
+                                "width": 537
+                            },
+                            {
+                                "height": 90,
+                                "type": "m",
+                                "url": "https://pp.userapi.com/c840526/v840526776/3538c/uLNMSWx1Qwk.jpg",
+                                "width": 130
+                            },
+                            {
+                                "height": 180,
+                                "type": "p",
+                                "url": "https://pp.userapi.com/c840526/v840526776/3538e/kVRuLjzMb8M.jpg",
+                                "width": 260
+                            },
+                            {
+                                "height": 52,
+                                "type": "s",
+                                "url": "https://pp.userapi.com/c840526/v840526776/3538b/A_BGqCDN_Ng.jpg",
+                                "width": 75
+                            },
+                            {
+                                "height": 104,
+                                "type": "x",
+                                "url": "https://pp.userapi.com/c840526/v840526776/3538d/Me45weNTgRY.jpg",
+                                "width": 150
+                            }
+                        ],
+                        "text": ""
+                    },
+                    "title": "Трейдинг на рынке криптовалют ПРОСТЫМИ СЛОВАМИ. Основные принципы и инструменты - Wiki Coins",
+                    "url": "http://wikicoins.club/trejding-na-rynke-kriptovalyut-osnovnye-principy-i-instrumenty/"
+                },
+                "type": "link"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1513784949,
+        "from_id": -25234359,
+        "id": 8247,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 3,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -25234359,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 0,
+            "user_reposted": 0
+        },
+        "text": "Как и любой финансовый инструмент (акция, валюта, драгоценный метал), криптовалюты способны изменяться в цене, именно поэтому в последнее время трейдинг на рынке криптовалют так актуален . Они получили сильное публичное освещение (ХАЙП) и привлекли внимание спекулянтов. Причём в это слово, вопреки штампам, устоявшимся в СМИ, мы не вносим никакого отрицательного...\n\nhttp://wikicoins.club/trejding-na-rynke-kriptovalyut-osnovnye-principy-i-instrumenty/",
+        "views": {
+            "count": 2867
+        }
+    },
+    {
+        "attachments": [
+            {
+                "link": {
+                    "caption": "wikicoins.club",
+                    "description": "Coinbase и GDAX несколько часов назад одновременно объявили о добавлении Bitcoin Cash. Как полагают многие в Биткоин-сообществе, биржи ведут грязную игру...",
+                    "is_favorite": false,
+                    "photo": {
+                        "album_id": -2,
+                        "date": 1513762492,
+                        "id": 456239684,
+                        "owner_id": 100,
+                        "sizes": [
+                            {
+                                "height": 480,
+                                "type": "k",
+                                "url": "https://pp.userapi.com/c840633/v840633233/35b4c/ZgS47Jccsh0.jpg",
+                                "width": 1074
+                            },
+                            {
+                                "height": 240,
+                                "type": "l",
+                                "url": "https://pp.userapi.com/c840633/v840633233/35b4b/OwWoNCl-PIU.jpg",
+                                "width": 537
+                            },
+                            {
+                                "height": 72,
+                                "type": "m",
+                                "url": "https://pp.userapi.com/c840633/v840633233/35b48/RORg0nhULz0.jpg",
+                                "width": 130
+                            },
+                            {
+                                "height": 143,
+                                "type": "p",
+                                "url": "https://pp.userapi.com/c840633/v840633233/35b4a/z77YX6tJyzo.jpg",
+                                "width": 260
+                            },
+                            {
+                                "height": 41,
+                                "type": "s",
+                                "url": "https://pp.userapi.com/c840633/v840633233/35b47/k52ETNOtudA.jpg",
+                                "width": 75
+                            },
+                            {
+                                "height": 83,
+                                "type": "x",
+                                "url": "https://pp.userapi.com/c840633/v840633233/35b49/zq_qGh5C50c.jpg",
+                                "width": 150
+                            }
+                        ],
+                        "text": ""
+                    },
+                    "title": "Coinbase и GDAX объявили о добавлении Bitcoin Cash - Wiki Coins",
+                    "url": "http://wikicoins.club/coinbase-i-gdax-obyavili-o-dobavlenii-bitcoin-cash/"
+                },
+                "type": "link"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1513762493,
+        "from_id": -25234359,
+        "id": 8244,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 1,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -25234359,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 1,
+            "user_reposted": 0
+        },
+        "text": "Coinbase и GDAX несколько часов назад одновременно объявили о добавлении Bitcoin Cash. Как полагают многие в Биткоин-сообществе, биржи ведут грязную игру...\n\nhttp://wikicoins.club/coinbase-i-gdax-obyavili-o-dobavlenii-bitcoin-cash/",
+        "views": {
+            "count": 2323
+        }
+    },
+    {
+        "attachments": [
+            {
+                "link": {
+                    "caption": "wikicoins.club",
+                    "description": "Сегодня у нас баттл! Криптовалюты VS Фиатные деньги. Мы расскажем о плюсах криптовалют и минусах фиатных денег. Дайте шума! Стартуем!",
+                    "is_favorite": false,
+                    "photo": {
+                        "album_id": -2,
+                        "date": 1513695567,
+                        "id": 456239683,
+                        "owner_id": 100,
+                        "sizes": [
+                            {
+                                "height": 472,
+                                "type": "k",
+                                "url": "https://pp.userapi.com/c840734/v840734593/35b19/VdPFzj-O7w8.jpg",
+                                "width": 852
+                            },
+                            {
+                                "height": 240,
+                                "type": "l",
+                                "url": "https://pp.userapi.com/c840734/v840734593/35b18/RtrkX0vI16o.jpg",
+                                "width": 537
+                            },
+                            {
+                                "height": 72,
+                                "type": "m",
+                                "url": "https://pp.userapi.com/c840734/v840734593/35b15/YOrEynuajkg.jpg",
+                                "width": 130
+                            },
+                            {
+                                "height": 144,
+                                "type": "p",
+                                "url": "https://pp.userapi.com/c840734/v840734593/35b17/aTbWUf-_JnQ.jpg",
+                                "width": 260
+                            },
+                            {
+                                "height": 42,
+                                "type": "s",
+                                "url": "https://pp.userapi.com/c840734/v840734593/35b14/13aG2KoDZpk.jpg",
+                                "width": 75
+                            },
+                            {
+                                "height": 83,
+                                "type": "x",
+                                "url": "https://pp.userapi.com/c840734/v840734593/35b16/bP8IZoGSOEg.jpg",
+                                "width": 150
+                            }
+                        ],
+                        "text": ""
+                    },
+                    "title": "Криптовалюты против фиатных денег - Wiki Coins",
+                    "url": "http://wikicoins.club/kriptovalyuty-protiv-fiatnyx-deneg/"
+                },
+                "type": "link"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1513695568,
+        "from_id": -25234359,
+        "id": 8242,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 4,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -25234359,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 2,
+            "user_reposted": 0
+        },
+        "text": "Сегодня у нас баттл! Криптовалюты VS Фиатные деньги.\nДайте шума! Стартуем!\n\nhttp://wikicoins.club/kriptovalyuty-protiv-fiatnyx-deneg/",
+        "views": {
+            "count": 2149
+        }
+    },
+    {
+        "attachments": [
+            {
+                "link": {
+                    "caption": "wikicoins.club",
+                    "description": "Waves Platform, пользовательская блок-цепочка для генерации и торговли активами / маркерами, и Primalbase сегодня объявили об улучшении своего партнерства.",
+                    "is_favorite": false,
+                    "photo": {
+                        "album_id": -2,
+                        "date": 1513676857,
+                        "id": 456239682,
+                        "owner_id": 100,
+                        "sizes": [
+                            {
+                                "height": 240,
+                                "type": "l",
+                                "url": "https://pp.userapi.com/c840130/v840130514/57bb7/rW-aTjjMshA.jpg",
+                                "width": 537
+                            },
+                            {
+                                "height": 84,
+                                "type": "m",
+                                "url": "https://pp.userapi.com/c840130/v840130514/57bb4/Yglxpgdlwmo.jpg",
+                                "width": 130
+                            },
+                            {
+                                "height": 168,
+                                "type": "p",
+                                "url": "https://pp.userapi.com/c840130/v840130514/57bb6/LQ_OTR8049A.jpg",
+                                "width": 260
+                            },
+                            {
+                                "height": 48,
+                                "type": "s",
+                                "url": "https://pp.userapi.com/c840130/v840130514/57bb3/l49zKPhLN_o.jpg",
+                                "width": 75
+                            },
+                            {
+                                "height": 97,
+                                "type": "x",
+                                "url": "https://pp.userapi.com/c840130/v840130514/57bb5/jlszVvL7eic.jpg",
+                                "width": 150
+                            }
+                        ],
+                        "text": ""
+                    },
+                    "title": "Waves Platform и Primalbase объявили об улучшении своего партнерства - Wiki Coins",
+                    "url": "http://wikicoins.club/waves-platform-i/"
+                },
+                "type": "link"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1513676858,
+        "from_id": -25234359,
+        "id": 8241,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 1,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -25234359,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 0,
+            "user_reposted": 0
+        },
+        "text": "Waves Platform, пользовательская блок-цепочка для генерации и торговли активами / маркерами, и Primalbase сегодня объявили об улучшении своего партнерства.\n\nhttp://wikicoins.club/waves-platform-i/",
+        "views": {
+            "count": 1301
+        }
+    },
+    {
+        "attachments": [
+            {
+                "link": {
+                    "caption": "wikicoins.club",
+                    "description": "",
+                    "is_favorite": false,
+                    "photo": {
+                        "album_id": -2,
+                        "date": 1513616182,
+                        "id": 456239681,
+                        "owner_id": 100,
+                        "sizes": [
+                            {
+                                "height": 480,
+                                "type": "k",
+                                "url": "https://pp.userapi.com/c841035/v841035170/4607c/a0Rc9TuQhBk.jpg",
+                                "width": 1074
+                            },
+                            {
+                                "height": 240,
+                                "type": "l",
+                                "url": "https://pp.userapi.com/c841035/v841035170/4607b/bGs5f8Ukhak.jpg",
+                                "width": 537
+                            },
+                            {
+                                "height": 80,
+                                "type": "m",
+                                "url": "https://pp.userapi.com/c841035/v841035170/46078/4njQUywMZ20.jpg",
+                                "width": 130
+                            },
+                            {
+                                "height": 159,
+                                "type": "p",
+                                "url": "https://pp.userapi.com/c841035/v841035170/4607a/iX9Bpr_gVdY.jpg",
+                                "width": 260
+                            },
+                            {
+                                "height": 46,
+                                "type": "s",
+                                "url": "https://pp.userapi.com/c841035/v841035170/46077/T2oNf08tYYM.jpg",
+                                "width": 75
+                            },
+                            {
+                                "height": 92,
+                                "type": "x",
+                                "url": "https://pp.userapi.com/c841035/v841035170/46079/xnsO6zmG7Zc.jpg",
+                                "width": 150
+                            }
+                        ],
+                        "text": ""
+                    },
+                    "title": "Денецтрализованная платформа Zen Protocol - Wiki Coins",
+                    "url": "http://wikicoins.club/denectralizovannaya-zen-protocol/"
+                },
+                "type": "link"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1513666922,
+        "from_id": -25234359,
+        "id": 8240,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 5,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -25234359,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 1,
+            "user_reposted": 0
+        },
+        "text": "Традиционные каналы для инвестирования не всегда бывают удобными: в большинстве случаев этот процесс сопровождается оформлением документов, высокой брокерской платой и длительным ожиданием. К тому же инвестор становится зависим от контрагентов или посредников. Но с децентрализованной платформой Zen Protocol пользователи смогут забыть об этих проблемах.\n\nhttp://wikicoins.club/denectralizovannaya-zen-protocol/",
+        "views": {
+            "count": 1164
+        }
+    },
+    {
+        "attachments": [
+            {
+                "link": {
+                    "caption": "wikicoins.club",
+                    "description": "Что такое блокчейн? Представьте, что вам нужно передать некоторое количество виртуальных фантиков нескольким своим друзьям. Для того, чтобы вести статистику всех переводов, вы составили таблицу....",
+                    "is_favorite": false,
+                    "photo": {
+                        "album_id": -2,
+                        "date": 1513615396,
+                        "id": 456239680,
+                        "owner_id": 100,
+                        "sizes": [
+                            {
+                                "height": 480,
+                                "type": "k",
+                                "url": "https://pp.userapi.com/c840328/v840328170/34423/S0q7l4bdUo8.jpg",
+                                "width": 1000
+                            },
+                            {
+                                "height": 240,
+                                "type": "l",
+                                "url": "https://pp.userapi.com/c840328/v840328170/34422/Y0bN_yVnpDw.jpg",
+                                "width": 537
+                            },
+                            {
+                                "height": 75,
+                                "type": "m",
+                                "url": "https://pp.userapi.com/c840328/v840328170/3441f/3QPdD-bO3aw.jpg",
+                                "width": 130
+                            },
+                            {
+                                "height": 150,
+                                "type": "p",
+                                "url": "https://pp.userapi.com/c840328/v840328170/34421/fPRa7uMhHIA.jpg",
+                                "width": 260
+                            },
+                            {
+                                "height": 43,
+                                "type": "s",
+                                "url": "https://pp.userapi.com/c840328/v840328170/3441e/16XlSXaO11g.jpg",
+                                "width": 75
+                            },
+                            {
+                                "height": 86,
+                                "type": "x",
+                                "url": "https://pp.userapi.com/c840328/v840328170/34420/gvF-UYUyxuE.jpg",
+                                "width": 150
+                            }
+                        ],
+                        "text": ""
+                    },
+                    "title": "Что такое блокчейн и как он работает ПРОСТЫМИ СЛОВАМИ - Wiki Coins",
+                    "url": "http://wikicoins.club/chto-takoe-blokchejn-i-kak-on-rabotaet-prostymi-slovami/"
+                },
+                "type": "link"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1513615395,
+        "from_id": -25234359,
+        "id": 8236,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 4,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -25234359,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 2,
+            "user_reposted": 0
+        },
+        "text": "Представьте, что вам нужно передать некоторое количество виртуальных фантиков нескольким своим друзьям. Для того, чтобы вести статистику всех переводов, вы составили таблицу. В каждой строчке таблицы есть то, кому и сколько фантиков вы перевели. Так вот что такое блокчейн?...\n\nhttp://wikicoins.club/chto-takoe-blokchejn-i-kak-on-rabotaet-prostymi-slovami/",
+        "views": {
+            "count": 1144
+        }
+    },
+    {
+        "attachments": [
+            {
+                "link": {
+                    "caption": "wikicoins.club",
+                    "description": "Что такое майнинг Существует три основных способа получения криптовалюты: покупка их на цыганском рынке, получение их в качестве оплаты за товары и услуги, а также...",
+                    "is_favorite": false,
+                    "photo": {
+                        "album_id": -2,
+                        "date": 1513612040,
+                        "id": 456239679,
+                        "owner_id": 100,
+                        "sizes": [
+                            {
+                                "height": 480,
+                                "type": "k",
+                                "url": "https://pp.userapi.com/c840336/v840336004/35a80/R_1eE5yPEh8.jpg",
+                                "width": 979
+                            },
+                            {
+                                "height": 240,
+                                "type": "l",
+                                "url": "https://pp.userapi.com/c840336/v840336004/35a7f/bqcv-Hc1KJg.jpg",
+                                "width": 537
+                            },
+                            {
+                                "height": 87,
+                                "type": "m",
+                                "url": "https://pp.userapi.com/c840336/v840336004/35a7c/F07DgEJ-mU0.jpg",
+                                "width": 130
+                            },
+                            {
+                                "height": 174,
+                                "type": "p",
+                                "url": "https://pp.userapi.com/c840336/v840336004/35a7e/gsO0sITxZ30.jpg",
+                                "width": 260
+                            },
+                            {
+                                "height": 50,
+                                "type": "s",
+                                "url": "https://pp.userapi.com/c840336/v840336004/35a7b/u8FOFhHaHMI.jpg",
+                                "width": 75
+                            },
+                            {
+                                "height": 101,
+                                "type": "x",
+                                "url": "https://pp.userapi.com/c840336/v840336004/35a7d/z6-E5DCPE9s.jpg",
+                                "width": 150
+                            }
+                        ],
+                        "text": ""
+                    },
+                    "title": "Что такое майнинг за 30 секунд ПРОСТЫМИ СЛОВАМИ - Wiki Coins",
+                    "url": "http://wikicoins.club/chto-takoe-majning-za-30-sekund-prostymi-slovami/"
+                },
+                "type": "link"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1513612040,
+        "from_id": -25234359,
+        "id": 8235,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 4,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -25234359,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 3,
+            "user_reposted": 0
+        },
+        "text": "Существует три основных способа получения криптовалюты: покупка их на цыганском рынке, получение их в качестве оплаты за товары и услуги, а также добыча новых. Так что такое майнинг? Майнинг — это процесс добавления записей транзакций в блокчейн. Но этот процесс не так уж и прост, для него требуются огромные вычислительные мощности. В этом направление работают целые, так называемые, фермы с огромной вычислительной мощностью.\n\nhttp://wikicoins.club/chto-takoe-majning-za-30-sekund-prostymi-slovami/",
+        "views": {
+            "count": 881
+        }
+    },
+    {
+        "attachments": [
+            {
+                "link": {
+                    "caption": "wikicoins.club",
+                    "description": "Что такое Bitcoin? Это вид цифровой криптовалюты, созданной и находящейся в электронном виде, которую никто не контролирует. Биткоины не печатаются, как доллары или евро –...",
+                    "is_favorite": false,
+                    "photo": {
+                        "album_id": -2,
+                        "date": 1512918073,
+                        "id": 456239678,
+                        "owner_id": 100,
+                        "sizes": [
+                            {
+                                "height": 480,
+                                "type": "k",
+                                "url": "https://pp.userapi.com/c840339/v840339720/3083e/Wr1BOtWhu4o.jpg",
+                                "width": 945
+                            },
+                            {
+                                "height": 240,
+                                "type": "l",
+                                "url": "https://pp.userapi.com/c840339/v840339720/3083d/EmcMT0nuZxw.jpg",
+                                "width": 537
+                            },
+                            {
+                                "height": 76,
+                                "type": "m",
+                                "url": "https://pp.userapi.com/c840339/v840339720/3083a/ql4ntdLSSOE.jpg",
+                                "width": 130
+                            },
+                            {
+                                "height": 153,
+                                "type": "p",
+                                "url": "https://pp.userapi.com/c840339/v840339720/3083c/d0-PSxrVf2w.jpg",
+                                "width": 260
+                            },
+                            {
+                                "height": 44,
+                                "type": "s",
+                                "url": "https://pp.userapi.com/c840339/v840339720/30839/DFjaLp3O-sU.jpg",
+                                "width": 75
+                            },
+                            {
+                                "height": 88,
+                                "type": "x",
+                                "url": "https://pp.userapi.com/c840339/v840339720/3083b/nSgPAHpucYg.jpg",
+                                "width": 150
+                            }
+                        ],
+                        "text": ""
+                    },
+                    "title": "Что такое BitCoin, откуда они берутся и как на них заработать? - Wiki Coins",
+                    "url": "http://wikicoins.club/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-bitcoin-%D0%B8-%D0%BE%D1%82%D0%BA%D1%83%D0%B4%D0%B0-%D0%BE%D0%BD-%D0%B1%D0%B5%D1%80%D0%B5%D1%82%D1%81%D1%8F/"
+                },
+                "type": "link"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1512918074,
+        "from_id": -25234359,
+        "id": 8168,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 7,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -25234359,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 3,
+            "user_reposted": 0
+        },
+        "text": "Что такое BitCoin, откуда они берутся и как на них заработать?\n\nЧто такое Bitcoin? Это вид цифровой криптовалюты, созданной и находящейся в электронном виде, которую никто не контролирует. Биткоины не печатаются, как доллары или евро – они производятся людьми, и в последнее время, все чаще предприятиями, использующими специальное программное обеспечение, которое проводит математ...",
+        "views": {
+            "count": 1152
+        }
+    },
+    {
+        "attachments": [
+            {
+                "photo": {
+                    "album_id": -6,
+                    "date": 1512916105,
+                    "id": 456239292,
+                    "owner_id": -25234359,
+                    "post_id": 8167,
+                    "sizes": [
+                        {
+                            "height": 129,
+                            "type": "m",
+                            "url": "https://pp.userapi.com/c831209/v831209328/916f/5bhPujaMqn8.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 129,
+                            "type": "o",
+                            "url": "https://pp.userapi.com/c831209/v831209328/9171/GZqRHqWHLng.jpg",
+                            "width": 130
+                        },
+                        {
+                            "height": 199,
+                            "type": "p",
+                            "url": "https://pp.userapi.com/c831209/v831209328/9172/DFfxjCLR19E.jpg",
+                            "width": 200
+                        },
+                        {
+                            "height": 319,
+                            "type": "q",
+                            "url": "https://pp.userapi.com/c831209/v831209328/9173/x8_m82ONr9k.jpg",
+                            "width": 320
+                        },
+                        {
+                            "height": 437,
+                            "type": "r",
+                            "url": "https://pp.userapi.com/c831209/v831209328/9174/grbw0Hxaxz8.jpg",
+                            "width": 439
+                        },
+                        {
+                            "height": 74,
+                            "type": "s",
+                            "url": "https://pp.userapi.com/c831209/v831209328/916e/rUIeEC2HShI.jpg",
+                            "width": 75
+                        },
+                        {
+                            "height": 437,
+                            "type": "x",
+                            "url": "https://pp.userapi.com/c831209/v831209328/9170/XlgoVvGsoPc.jpg",
+                            "width": 439
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100
+                },
+                "type": "photo"
+            }
+        ],
+        "comments": {
+            "can_post": 0,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "date": 1512916105,
+        "from_id": -25234359,
+        "id": 8167,
+        "is_favorite": false,
+        "likes": {
+            "can_like": 1,
+            "can_publish": 1,
+            "count": 4,
+            "user_likes": 0
+        },
+        "marked_as_ads": 0,
+        "owner_id": -25234359,
+        "post_source": {
+            "data": "profile_photo",
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 0,
+            "user_reposted": 0
+        },
+        "text": "",
+        "views": {
+            "count": 1625
+        }
+    }
+]
