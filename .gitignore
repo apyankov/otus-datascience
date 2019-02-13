@@ -5,6 +5,9 @@ target/*
 # login/password files
 **/vk_login_password.txt
 
+# vk tmp files
+**/vk_config.v2.json
+
 # notebook tmp files
 **/.ipynb_checkpoints
 
