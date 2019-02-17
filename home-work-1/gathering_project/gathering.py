@@ -125,6 +125,7 @@ import logging
 import sys
 
 from scrappers.scrapper import Scrapper
+from scrappers.scrapper_vk_api import ScrapperVkApi
 from storages.file_storage import FileStorage
 
 logging.basicConfig(level=logging.INFO)
@@ -140,7 +141,7 @@ def gather_process():
     storage = FileStorage(SCRAPPED_FILE)
 
     # You can also pass a storage
-    scrapper = Scrapper()
+    scrapper = ScrapperVkApi()
     scrapper.scrap_process(storage)
 
 
@@ -166,7 +167,7 @@ if __name__ == '__main__':
     why main is so...?
     https://stackoverflow.com/questions/419163/what-does-if-name-main-do
     """
-    logger.info("Work started")
+    logger.info("Work started qqq 1")
 
     if sys.argv[1] == 'gather':
         gather_process()
