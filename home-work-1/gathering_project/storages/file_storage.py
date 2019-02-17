@@ -21,7 +21,7 @@ class FileStorage(Storage):
         :param data_array: collection of strings that
         should be written as lines
         """
-        with open(self.file_name, 'w') as f:
+        with open(self.file_name, 'w', encoding='utf-8') as f:
             for line in data_array:
                 if line.endswith('\n'):
                     f.write(line)
