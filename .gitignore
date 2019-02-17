@@ -2,14 +2,22 @@
 target/*
 *.iml
 
-# login/password files
-**/vk_login_password.txt
+# python compiled files
+**/_pycache_/**
+__pycache__/**
+*.pyc
+home-work-1/gathering_project/scrappers/__pycache__/*
 
-# vk tmp files
+# login/password files, tmp files
+**/vk_login_password.txt
 **/vk_config.v2.json
 
 # notebook tmp files
 **/.ipynb_checkpoints
 
-# too large file
+# too large file (for hw-1, part 3 of tasks)
 home-work-1/en_openfoodfacts_org_products.tsv
+
+# scrapped_data
+**/scrapped_data/*
+scrapped_data.txt
