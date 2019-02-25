@@ -124,15 +124,14 @@ import logging
 
 import sys
 
-from scrappers.scrapper import Scrapper
 from scrappers.scrapper_vk_api import ScrapperVkApi
 from storages.file_storage import FileStorage
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-
-SCRAPPED_FILE = 'scrapped_data.txt'
+# Константы, которые используем в проекте
+SCRAPPED_FILES_FOLDER_PREFIX = './scrapped_files/'
 TABLE_FORMAT_FILE = 'data.csv'
 
 
