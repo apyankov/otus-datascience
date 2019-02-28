@@ -19,7 +19,7 @@ class AppDataStorageFactory(object):
         return JsonFileStorage(self.file_path_func(self.GROUP_FILE_NAME))
 
     def obtain_message_storage(self, group_id):
-        file_name = 'messages_' + group_id + '.txt'
+        file_name = 'messages_' + str(group_id) + '.txt'
         return JsonFileStorage(self.file_path_func(file_name))
 
     def obtain_all_message_storages(self):

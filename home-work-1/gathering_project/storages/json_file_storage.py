@@ -21,7 +21,7 @@ class JsonFileStorage(Storage):
     # записать json в файл
     def write_data(self, json_data):
         """
-        :param json_data: json to be written to file
+        :param json_data: json-value to be written to file
         """
         with io.open(self.file_path, 'w', encoding='utf-8') as f:
             f.write(json.dumps(json_data, ensure_ascii=False, sort_keys=True, indent=4))

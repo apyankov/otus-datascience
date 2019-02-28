@@ -125,7 +125,8 @@ import logging
 import sys
 
 from scrappers.scrapper_vk_api import ScrapperVkApi
-from storages.file_storage import FileStorage
+from storages.app_data_storage_factory import AppDataStorageFactory
+
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -134,14 +135,14 @@ logger = logging.getLogger(__name__)
 SCRAPPED_FILES_FOLDER_PREFIX = './scrapped_files/'
 TABLE_FORMAT_FILE = 'data.csv'
 
+storage_factory = AppDataStorageFactory('./runtime_data/scrapped_data')
+
 
 def gather_process():
     logger.info("gather")
-    storage = FileStorage(SCRAPPED_FILE)
 
-    # You can also pass a storage
-    scrapper = ScrapperVkApi()
-    scrapper.scrap_process(storage)
+    scrapper = ScrapperVkApi(storage_factory)
+    scrapper.scrap_process('./vk_login_password.txt', 'bitcoin', 3, 5)
 
 
 def convert_data_to_table_format():

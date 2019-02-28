@@ -7,81 +7,93 @@ import vk_api
 
 logger = logging.getLogger(__name__)
 
+
 # import sys
 # print(sys.path)
+
+
+class Credentials(object):
+    """
+    Хранит логин, пароль
+    """
+
+    def __init__(self, login, password):
+        self.login = login
+        self.password = password
+
 
 class ScrapperVkApi(object):
     # константы и правила, которые используем при работе с файлами
     FOLDER_PREFIX = './scrapped_data/'  # folder, в которую складываем файлы
     FILE_EXTENSION = '.txt'  # расширение для json-файлов
 
-    def __init__(self, skip_objects=None):
+    def __init__(self, storage_factory, skip_objects=None):
+        self.storage_factory = storage_factory
         self.skip_objects = skip_objects
 
-    def fileNameFunc(self, rawFileName):
-        return self.FOLDER_PREFIX + rawFileName + self.FILE_EXTENSION
+    def file_name_func(self, raw_file_name):
+        return self.FOLDER_PREFIX + raw_file_name + self.FILE_EXTENSION
 
     # Данные по сообществам - получаем по http
-    def obtainGroups(self, api, keyword, count):
-        print("obtainGroups, keyword=" + keyword + ", count=" + str(count))
+    def scrap_groups(self, api, keyword, count):
+        print("scrap_groups, keyword=" + keyword + ", count=" + str(count))
         results = api.groups.search(q=keyword, count=count)
         return results['items']
 
     # получить N записей со стены сообщества/пользователя
     def obtainWallItems(self, api, owner_id, count):
         # protection: проверяем входные значения
-        if(count > 100): # todo: можно приделать scroll, то есть, разбить запрос на несколько, в каждом count не более 100
+        if (
+                count > 100):  # todo: можно приделать scroll, то есть, разбить запрос на несколько, в каждом count не более 100
             raise AssertionError("count должен быть <= 100, но передали:" + str(count))
 
         # основная часть
-        results = api.wall.get(owner_id=owner_id, filter = 'owner', count = count, offset=0)
-        print("obtainWallItems, owner_id=" + str(owner_id) + ", retrieve " + str(len(results['items'])) + ", of total " + str(results['count']))
+        results = api.wall.get(owner_id=owner_id, filter='owner', count=count, offset=0)
+        print("obtainWallItems, owner_id=" + str(owner_id) + ", retrieve " + str(
+            len(results['items'])) + ", of total " + str(results['count']))
         return results['items']
 
         # для напоминания - сохраним в комментариях альтернативный метод vk_api для получения сообщений со стены сообщества
-        #tools = vk_api.VkTools(vk_session)
-        #wall = tools.get_all('wall.get', 10, {'owner_id': -92718200, 'filter':'owner'})
+        # tools = vk_api.VkTools(vk_session)
+        # wall = tools.get_all('wall.get', 10, {'owner_id': -92718200, 'filter':'owner'})
 
     # записываем json в файл
     def writeJsonToFile(self, fileName, jsonData):
         with io.open(fileName, 'w', encoding='utf-8') as f:
             f.write(json.dumps(jsonData, ensure_ascii=False, sort_keys=True, indent=4))
 
-    def scrap_process(self, storage):
-        # credentials: нужно указать логин/пароль к vk.com
-        # чтобы случайно не закомитить версию с логин/пароль - выносим эти данные в отдельный файл, который исключаем в .gitignore
-        credentialsFileName = "vk_login_password.txt" # формат файла: 1-я строка = логин, 2-я строка = пароль
-        # затираем значения, которые могли сохраниться с прошлых запусков (в notebook)
-        login = '+71231234567'
-        password = ''
+    def obtain_credentials(self, credentials_file_path):
+        """
+        чтобы случайно не закомитить версию с логин/пароль - эти данные храним в отдельном файле, который исключаем в .gitignore
+        :param credentials_file_path: путь к файлу, в котором: 1-я строка = логин (в формате: '+71231234567'), 2-я строка = пароль
+        :return: объект Credentials
+        :raises: IOError - если файл не найден, либо не удалось считать логин, пароль
+        """
 
         # загружаем значения из файла
         try:
-            loginFile = open(credentialsFileName, 'r')
-            login = loginFile.readline().strip() # в формате: '+71231234567'
-            password = loginFile.readline().strip()
-        except IOError:
-            print("No file with login/password: создайте файл " + credentialsFileName + ", в котором 1-я строка = логин, 2-я строка = пароль")
+            credentials_file = open(credentials_file_path, 'r')
+            login = credentials_file.readline().strip()
+            password = credentials_file.readline().strip()
+            return Credentials(login, password)
+        except IOError as exception:
+            print(
+                "No file with login/password: создайте файл " + credentials_file_path + ", в котором 1-я строка = логин, 2-я строка = пароль")
+            raise exception
 
-        # используем:
-        #  wrapper-lib vk_api: https://github.com/python273/vk_api
-        #  описание Api от vk: https://vk.com/dev/groups.search?params[q]=bitcoin&params[future]=0&params[market]=0&params[offset]=3&params[count]=3&params[v]=5.92
-
-        # параметры запуска
-        GROUP_KEYWORD = 'bitcoin'  # интересуют сообщества, в названии которых есть такое слово
-        COUNT_GROUPS = 2  # обработаем столько сообществ
-        COUNT_MESSAGES_PER_GROUP = 5  # в каждом сообществе, со стены возьмем столько сообщений
-
+    @staticmethod
+    def obtain_vk_api(login, password):
         # получаем соединение, api
         vk_session = vk_api.VkApi(login, password)
         vk_session.auth(token_only=True)
-        api = vk_session.get_api()
+        return vk_session.get_api()
 
-        # получаем все интересующие сообщества, записываем в файл
-        groups = self.obtainGroups(api, 'bitcoin', COUNT_GROUPS)
-        self.writeJsonToFile(self.fileNameFunc('groups'), groups)
-
-        # отфильтруем сообщества - нам нужны только те, у которых есть доступ к сообщениям на стене
+    def reveal_group_ids_of_interest(self, groups):
+        """
+        отфильтруем сообщества - нам нужны только те, у которых есть доступ к сообщениям на стене
+        :param groups: список json, для групп, полученных из vk_api
+        :return: список id сообществ, которые нам нужны
+        """
         group_ids = []
         for group in groups:
             if group['is_closed'] == 0:
@@ -89,36 +101,35 @@ class ScrapperVkApi(object):
             else:
                 print('skip group:' + str(group['id']))
         print('total groups для обработки: ' + str(len(group_ids)))
+        return group_ids
 
-        # для каждого сообщества - получаем сообщения со стены и записваем в соотв.файл
-        counter = 1  # счетчик, используем в названии файлов
+    def scrap_process(self, credentials_file_path, group_keyword, count_groups, count_messages_per_group):
+        """
+        собираем данные из vk.api
+        :param credentials_file_path: путь к файлу с логин, пароль
+        :param group_keyword: интересуют сообщества, в названии которых есть такое слово
+        :param count_groups: обработаем столько сообществ
+        :param count_messages_per_group: в каждом сообществе, со стены возьмем столько сообщений
+        :return: void
+        """
+
+        credentials = self.obtain_credentials(credentials_file_path)
+
+        # используем:
+        #  wrapper-lib vk_api: https://github.com/python273/vk_api
+        #  описание Api от vk: https://vk.com/dev/groups.search?params[q]=bitcoin&params[future]=0&params[market]=0&params[offset]=3&params[count]=3&params[v]=5.92
+        api_vk = self.obtain_vk_api(credentials.login, credentials.password)
+
+        # получаем все интересующие сообщества, записываем в файл
+        groups = self.scrap_groups(api_vk, group_keyword, count_groups)
+        self.storage_factory.obtain_group_storage().write_data(groups)  # запишем полученные сообщества в storage
+
+        # отфильтруем сообщества - нам нужны только те, у которых есть доступ к сообщениям на стене
+        group_ids = self.reveal_group_ids_of_interest(groups)
+
+        # для каждого сообщества - получаем сообщения со стены и записываем в соотв.файл
         for group_id in group_ids:
             vk_id = -1 * group_id  # vk_api.wall.get по наличию знака минус - определяет, что требуется именно сообщество
-            items = self.obtainWallItems(api=api, owner_id=vk_id, count=COUNT_MESSAGES_PER_GROUP)
-            rawFileName = str(counter) + "_" + str(group_id)
-            self.writeJsonToFile(self.fileNameFunc(rawFileName), items)
-            counter = counter + 1
+            items = self.obtainWallItems(api=api_vk, owner_id=vk_id, count=count_messages_per_group)
+            self.storage_factory.obtain_message_storage(group_id).write_data(items)
             time.sleep(0.5)  # соблюдаем этикет
-
-
-
-
-
-        # You can iterate over ids, or get list of objects
-        # from any API, or iterate through pages of any site
-        # Do not forget to skip already gathered data
-        # Here is an example for you
-        url = 'https://otus.ru/'
-        response = requests.get(url, cert=False)
-
-        if not response.ok:
-            logger.error(response.text)
-            # then continue process, or retry, or fix your code
-
-        else:
-            # Note: here json can be used as response.json
-            data = response.text
-
-            # save scrapped objects here
-            # you can save url to identify already scrapped objects
-            storage.write_data([url + '\t' + data.replace('\n', '')])
