@@ -148,8 +148,12 @@ def gather_process():
 def convert_data_to_table_format():
     logger.info("transform")
 
-    # Your code here
-    # transform gathered data from txt file to pandas DataFrame and save as csv
+    from parsers.vk_messages_parser import AllGroupsParser
+
+    parser = AllGroupsParser(storage_factory)
+    csv_storage = parser.transform_all_groups()
+
+    print('rows written to csv-file: ' + str(len(csv_storage.read_data())))
     pass
 
 

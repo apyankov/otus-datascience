@@ -1,10 +1,6 @@
-import os
-import io
-from os import listdir
-from os.path import isfile, join
-import re
 import csv
-import numpy
+import os
+
 import pandas as pd
 
 from storages.storage import Storage
@@ -23,22 +19,22 @@ class CsvFileStorage(Storage):
         return pd.read_csv(self.file_path)
 
     # записать dataframe в файл
-    def write_data(self, df):
+    def write_data(self, row_list):
         """
-        :param df: dataframe to be written to file
+        :param row_list: list of rows (row = list of values) to be written to file
         """
         with open(self.file_path, 'w', newline='', encoding='utf-8') as csvFile:
             csv_writer = csv.writer(csvFile, delimiter=',')
             csv_writer.writerow(self.csv_fields)
-            for index, row in df.iterrows():
+            for row in row_list:  # .iterrows():
                 csv_writer.writerow(row)
 
     # добавить в файл строки из dataframe
-    def append_data(self, df):
+    def append_data(self, row_list):
         """
-        :param df: json to be appended to file
+        :param row_list: list of rows (row = list of values) to be appended to file
         """
         with open(self.file_path, 'a', newline='', encoding='utf-8') as csvFile:
             csv_writer = csv.writer(csvFile, delimiter=',')
-            for index, row in df.iterrows():
+            for row in row_list:
                 csv_writer.writerow(row)
