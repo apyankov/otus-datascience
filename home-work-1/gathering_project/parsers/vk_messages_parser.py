@@ -58,7 +58,7 @@ class AllGroupsParser(object):
         'marked_as_ads': 'marked_as_ads',
         'post_source': 'post_source.type',
         'reposts_count': 'reposts.count',
-        'text': 'text',
+        #'text': 'text',
         'views_count': 'views.count'
     }
     # в обработанном виде
@@ -79,7 +79,7 @@ class AllGroupsParser(object):
         # 1. пройти по всем файлам, которые с названием [N]_[id].txt
         # 2. Составляем csv-файл со всеми сообщениями, сохраняем
         storage_list = self.storage_factory.obtain_all_message_storages()
-        result_storage = self.storage_factory.obtain_csv_data_storage(self.csv_fields)
+        result_storage = self.storage_factory.obtain_csv_data_storage(['group_id'] + self.csv_fields)
         for index, scrapped_group_data in enumerate(storage_list):
             parser = VkMessagesParser(scrapped_group_data.group_id, self.FIELDS_OF_INTEREST)
             parsed_df = parser.parse(scrapped_group_data.storage.read_data())
