@@ -164,6 +164,12 @@ def stats_of_data():
     # Load pandas DataFrame and print to stdout different statistics about the data.
     # Try to think about the data and use not only describe and info.
     # Ask yourself what would you like to know about this data (most frequent word, or something else)
+    from statistics.simple_stats_producer import SimpleStatsProducer
+
+    stats_producer = SimpleStatsProducer()
+    df = storage_factory.obtain_csv_data_storage(stats_producer.fields).read_data()
+
+    stats_producer.print_stats(df)
 
 
 if __name__ == '__main__':

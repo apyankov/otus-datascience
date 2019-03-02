@@ -14,9 +14,15 @@ class CsvFileStorage(Storage):
 
     # вычитать dataframe из файла
     def read_data(self):
+        """
+        не очень корректное Api, т.к. записываем список, а на считывании получаем dataframe
+        :return: dataframe
+        """
         if not os.path.exists(self.file_path):
             raise StopIteration
-        return pd.read_csv(self.file_path)
+
+        df = pd.read_csv(self.file_path)
+        return df[self.csv_fields]
 
     # записать dataframe в файл
     def write_data(self, row_list):
