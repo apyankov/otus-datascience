@@ -24,18 +24,23 @@ class VkMessagesParser(Parser):
 
         return result
 
-    @staticmethod
     # из объекта - получаем строку для csv
-    def produce_line(group_id, json_data, fields_list):
+    def produce_line(self, group_id, json_data, fields_list):
         result = [group_id]
         for csv_field, json_path in fields_list.items():
-            data = VkMessagesParser.reveal_field_value(json_data, json_path)
+            data = self.reveal_field_value(json_data, json_path)
             result.append(data)
         return result
 
-    @staticmethod
     # получаем значение поля в json
-    def reveal_field_value(json_data, field_path):
+    def reveal_field_value(self, json_data, field_path):
+        if self.has_field_path_function(field_path):
+            return self.reveal_special_value(json_data, field_path)
+        else:
+            return self.reveal_raw_value(json_data, field_path)
+
+    @staticmethod
+    def reveal_raw_value(json_data, field_path):
         none_value = ''
         path = field_path.split('.')
         data = json_data
@@ -45,21 +50,53 @@ class VkMessagesParser(Parser):
             else:
                 return none_value
         data = data.get(path[-1], none_value)
-        # print(data)
         return data
+
+    # если field_path содержит указание функции - вернет True
+    @staticmethod
+    def has_field_path_function(field_path):
+        return len(field_path.split('?')) > 1
+
+    # получение значения для поля, в котором указана функция
+    def reveal_special_value(self, json_data, field_path):
+        assert self.has_field_path_function(field_path)
+        tmp = field_path.split('?')
+        value_path = tmp[0]
+        func_code = tmp[1]
+        value = self.reveal_field_value(json_data, value_path)
+        return self.apply_func(func_code, value)
+
+    @staticmethod
+    def apply_func(func_code, value, ):
+        """
+        Применяем функцию к значению
+        :param func_code: string-code для функции
+        :return: результат применения функции к value
+        """
+        if func_code == 'len':
+            return len(value)
+        else:
+            raise AssertionError('unknown func_code: ' + str(func_code))
 
 
 class AllGroupsParser(object):
-    # поля, которые интересуют
+    # разделитель в json_path - переход к св-ву
+    FIELD_PATH_DIVIDER = "."
+    # разделитель в json_path - применение функции
+    FIELD_PATH_FUNC_DIVIDER = "/"
+
+    """
+    поля, которые интересуют
+    формат: название в csv -> json_path, то есть, как получить из json
+    json_path: '.' - путь во вложенном dict, '?' - после этого знака можем указать функцию, которую применить
+    """
     FIELDS_OF_INTEREST = {
-        'comments_count': 'comments.count',
         'date': 'date',
+        'comments_count': 'comments.count',
         'likes_count': 'likes.count',
-        'marked_as_ads': 'marked_as_ads',
-        'post_source': 'post_source.type',
         'reposts_count': 'reposts.count',
-        #'text': 'text',
-        'views_count': 'views.count'
+        'views_count': 'views.count',
+        'text_len': 'text?len'  # в notebook функции не применяли
     }
     # в обработанном виде
     csv_fields = []

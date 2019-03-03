@@ -11,3 +11,7 @@ class StatsProducer(object):
         :param df: dataframe
         """
         raise NotImplementedError
+
+    @staticmethod
+    def print_question(question):
+        print('\n\n *** ' + question + ' ***')

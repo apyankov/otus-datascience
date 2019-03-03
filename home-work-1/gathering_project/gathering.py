@@ -127,7 +127,6 @@ import sys
 from scrappers.scrapper_vk_api import ScrapperVkApi
 from storages.app_data_storage_factory import AppDataStorageFactory
 
-
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
@@ -164,12 +163,26 @@ def stats_of_data():
     # Load pandas DataFrame and print to stdout different statistics about the data.
     # Try to think about the data and use not only describe and info.
     # Ask yourself what would you like to know about this data (most frequent word, or something else)
+
+    def print_stats(producer):
+        stats_df = storage_factory.obtain_csv_data_storage(stats_producer.fields).read_data()
+        producer.print_stats(stats_df)
+
     from statistics.simple_stats_producer import SimpleStatsProducer
-
     stats_producer = SimpleStatsProducer()
-    df = storage_factory.obtain_csv_data_storage(stats_producer.fields).read_data()
+    print_stats(stats_producer)
 
-    stats_producer.print_stats(df)
+    from statistics.correlate_activities_stats_producer import ActivityStatsProducer
+    stats_producer = ActivityStatsProducer()
+    print_stats(stats_producer)
+
+    from statistics.find_top_active_groups_stat_producer import FincTopActiveGroupsStatsProducer
+    stats_producer = FincTopActiveGroupsStatsProducer()
+    print_stats(stats_producer)
+
+    from statistics.message_text_len_stats_producer import MessageTextLenStatsProducer
+    stats_producer = MessageTextLenStatsProducer()
+    print_stats(stats_producer)
 
 
 if __name__ == '__main__':
