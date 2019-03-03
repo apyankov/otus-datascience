@@ -28,8 +28,8 @@ class VkMessagesParser(Parser):
     # из объекта - получаем строку для csv
     def produce_line(group_id, json_data, fields_list):
         result = [group_id]
-        for field in fields_list:
-            data = VkMessagesParser.reveal_field_value(json_data, field)
+        for csv_field, json_path in fields_list.items():
+            data = VkMessagesParser.reveal_field_value(json_data, json_path)
             result.append(data)
         return result
 
