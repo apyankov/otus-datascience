@@ -1,0 +1,18 @@
+﻿Тема:  Интернет-активность на определенную тематику.
+Например, текущая активность по теме "bitcoin".
+
+Ресурсы в сети, где можно получить информацию:
+
+1. Соц.сеть vk,vk-Api:		https://vk.com/dev/wall
+2. Соц.сеть twitter:		https://developer.twitter.com/en/docs/tweets/search/overview
+3. Соц.сеть facebook:		https://developers.facebook.com/docs/graph-api/reference/v3.2/conversation
+4. Соц.сеть Одноклассники:	https://apiok.ru/dev/methods/rest/discussions/
+5. Соц.сеть Google plus:	https://developers.google.com/+/web/api/rest/latest/activities/search
+6. Портал Investing.com		https://ru.investing.com/crypto/bitcoin/news
+7. Спец.Издание NewsBtc:	https://www.newsbtc.com/?s=bitcoin&lang=en
+8. Спец.Издание Forklog:	https://forklog.com/?s=bitcoin
+9. Спец.Издание BitLenta:	https://bitlenta.net/ru/news
+10. Издание CNews:		http://www.cnews.ru/search/bitcoin
+
+"Запасная строка", на случай, если vk-Api нельзя засчитать в этом пункте задания:
+Спец.издание CryptoNews:	https://cryptonews.com/search/?q=bitcoin
