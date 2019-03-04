@@ -141,7 +141,7 @@ def gather_process():
     logger.info("gather")
 
     scrapper = ScrapperVkApi(storage_factory)
-    scrapper.scrap_process('./vk_login_password.txt', 'bitcoin', 3, 5)
+    scrapper.scrap_process('./vk_login_password.txt', 'bitcoin', 50, 100)
 
 
 def convert_data_to_table_format():
