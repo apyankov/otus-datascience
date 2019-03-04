@@ -3,6 +3,7 @@ target/*
 *.iml
 
 home-work-1/lesson_docs/*
+**/runtime_data/*
 
 # python compiled files
 **/__pycache__/*
