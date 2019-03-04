@@ -2,6 +2,8 @@
 target/*
 *.iml
 
+home-work-1/lesson_docs/*
+
 # python compiled files
 **/__pycache__/*
 *.pyc
