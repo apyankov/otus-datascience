@@ -3,10 +3,8 @@ target/*
 *.iml
 
 # python compiled files
-**/_pycache_/**
-__pycache__/**
+**/__pycache__/*
 *.pyc
-home-work-1/gathering_project/scrappers/__pycache__/*
 
 # login/password files, tmp files
 **/vk_login_password.txt
