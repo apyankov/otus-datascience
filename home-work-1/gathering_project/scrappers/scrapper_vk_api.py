@@ -84,7 +84,7 @@ class ScrapperVkApi(object):
     @staticmethod
     def obtain_vk_api(login, password):
         # получаем соединение, api
-        vk_session = vk_api.VkApi(login, password)
+        vk_session = vk_api.VkApi(login, password, scope='wall')
         vk_session.auth(token_only=True)
         return vk_session.get_api()
 
