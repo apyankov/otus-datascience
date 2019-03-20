@@ -19,13 +19,6 @@ class TestJsonStorage(unittest.TestCase):
         self.assertDictEqual(restored_data, self.SAMPLE_DATA)
         pass
 
-#
-# class TestHtmlParser(unittest.TestCase):
-#
-#     def test_parse(self):
-#         # Your code here
-#         pass
-
 
 if __name__ == '__main__':
     unittest.main()

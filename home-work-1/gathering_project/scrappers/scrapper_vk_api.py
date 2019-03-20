@@ -1,8 +1,8 @@
-import requests
 import io
-import json, codecs
+import json
 import logging
 import time
+
 import vk_api
 
 logger = logging.getLogger(__name__)
