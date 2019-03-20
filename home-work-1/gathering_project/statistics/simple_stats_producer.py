@@ -1,4 +1,5 @@
 from statistics.stats_producer import StatsProducer
+import pandas as pd
 
 
 class SimpleStatsProducer(StatsProducer):
@@ -16,4 +17,5 @@ class SimpleStatsProducer(StatsProducer):
         df.info()
 
         print('\n*** df.describe() ***')
-        print(df.describe())
+        with pd.option_context('display.max_columns', 10, 'precision', 3):
+            print(df.describe())

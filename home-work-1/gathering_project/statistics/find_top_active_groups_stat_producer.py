@@ -1,4 +1,5 @@
 from statistics.stats_producer import StatsProducer
+import pandas as pd
 
 
 class FincTopActiveGroupsStatsProducer(StatsProducer):
@@ -27,7 +28,8 @@ class FincTopActiveGroupsStatsProducer(StatsProducer):
         target_df = split_dfs['target']
 
         print('*** статистика по сообщениям, которые вызвали хорошую активность: ***')
-        print(target_df.describe())
+        with pd.option_context('display.max_columns', 10):
+            print(target_df.describe())
 
         print('*** в этих сообществах встречается более всего публикаций, которые вызывают интерес у посетителей: ***')
         print(self.reveal_top_groups(target_df))

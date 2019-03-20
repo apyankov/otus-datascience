@@ -1,4 +1,5 @@
 from statistics.stats_producer import StatsProducer
+import pandas as pd
 
 
 class ActivityStatsProducer(StatsProducer):
@@ -12,4 +13,5 @@ class ActivityStatsProducer(StatsProducer):
     def print_stats(self, df):
         self.print_question(self.question)
 
-        print(df.corr())
+        with pd.option_context('display.max_columns', 10):
+            print(df.corr())
