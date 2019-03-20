@@ -20,5 +20,4 @@ home-work-1/lesson_docs/*
 home-work-1/en_openfoodfacts_org_products.tsv
 
 # scrapped_data
-**/scrapped_data/*
-scrapped_data.txt
+#**/scrapped_data/*
